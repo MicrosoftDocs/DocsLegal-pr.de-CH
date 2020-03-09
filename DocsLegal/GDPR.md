@@ -1,12 +1,13 @@
 ---
 # required metadata
+
 title: Datenschutz-Grundverordnung (DSGVO)
-description: DSGVO docs.microsoft.com.
+description: GDPR docs.microsoft.com.
 ms.topic: article
 layout: ContentPage
 ---
 
-# <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>DSGVO-Zusagen von Microsoft an Kunden unserer allgemein verfügbaren Enterprise Software-Produkte
+# DSGVO-Zusagen von Microsoft an Kunden unserer allgemein verfügbaren Enterprise Software-Produkte
 
 **Einführung**
 
@@ -20,7 +21,7 @@ Ja. Gemäss der DSGVO sind Verantwortliche (z. B. Unternehmen bzw. Organisation
 
 **Wo finde ich die vertraglichen Zusagen von Microsoft im Hinblick auf die DSGVO?**
 
-Die vertraglichen Zusagen von Microsoft im Hinblick auf die DSGVO finden Sie in den [Bedingungen für Onlinedienste](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.microsoftvolumelicensing.com%2FDocumentSearch.aspx%3FMode%3D3%26DocumentTypeId%3D46&data=04%7C01%7Ccolvog%40microsoft.com%7C4d7ac59082394bd57e5808d57b0e0368%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636550222480031404%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwifQ%3D%3D%7C-1&sdata=tbYN10WQtaVgss%2FPzHELXV2VDU8J20VP5bmzIydEZYA%3D&reserved=0), in denen die Zusagen von Microsoft im Hinblick auf Datenschutz und Sicherheit, die Datenverarbeitungsbedingungen und die DSGVO-Bedingungen für von Microsoft gehostete Dienste, die Kunden im Rahmen einer Vereinbarung über Volumenlizenzierung abonnieren, enthalten sind. Die DSGVO-Bedingungen sind in Anlage 4 der Bedingungen für Onlinedienste aufgeführt (am Ende des Dokuments) und diese verpflichten Microsoft zur Einhaltung der Anforderungen für Auftragsverarbeiter in Artikel 28 und anderen relevanten Artikeln der DSGVO. 
+Die vertraglichen Zusagen von Microsoft im Hinblick auf die DSGVO finden Sie im [Datenschutzanhang für Onlinedienste](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=2&Keyword=DPA), in dem die Zusagen von Microsoft im Hinblick auf Datenschutz und Sicherheit, die Datenverarbeitungsbedingungen und die DSGVO-Bedingungen für von Microsoft gehostete Dienste, die Kunden im Rahmen einer Vereinbarung über Volumenlizenzierung abonnieren, enthalten sind. Diese Bedingungen verpflichten Microsoft zu den Anforderungen an Auftragsverarbeiter in Artikel 28 und anderen relevanten Artikeln der DSGVO. 
 
 Ab dem 25. Mai 2018 gewährt Microsoft die DSGVO-Bedingungen allen Kunden von allgemein verfügbaren Enterprise Software-Produkten, die von uns oder unseren Affiliate-Partnern im Rahmen von Microsoft-Software-Lizenzbedingungen lizenziert wurden, ungeachtet der jeweiligen Version der Enterprise-Software, soweit Microsoft Auftragsverarbeiter oder Unterauftragsverarbeiter personenbezogener Daten in Verbindung mit der betreffenden Software ist und solange wie Microsoft das Angebot oder die Unterstützung für die Version fortsetzt. Details zur Unterstützung finden Sie in der Microsoft Lifecycle-Richtlinie unter https://support.microsoft.com/en-us/lifecycle.
 
@@ -30,12 +31,12 @@ Zur Klarstellung sei angemerkt, dass unter Umständen andere oder weniger umfang
 
 Die DSGVO-Bedingungen von Microsoft reflektieren die Zusagen, die von Auftragsverarbeitern in Artikel 28 der DSGVO verlangt werden.  Laut Artikel 28 müssen sich Auftragsverarbeiter zu Folgendem verpflichten:
 
--   Unterauftragsverarbeiter nur mit der Zustimmung des Verantwortlichen einzusetzen und weiterhin für Unterauftragnehmer zu haften;
--   personenbezogene Daten nur gemäss den Anweisungen des Verantwortlichen zu verarbeiten, auch im Hinblick auf eine Übermittlung der Daten;
--   sicherzustellen, dass sich Personen, die personenbezogene Daten verarbeiten, zur Geheimhaltung solcher Daten verpflichtet haben;
--   angemessene technische und organisatorische Massnahmen einzurichten, um ein Sicherheitsniveau für personenbezogene Daten zu gewährleisten, das für das jeweilige Risiko angemessen ist;
--   den Verantwortlichen bei seinen Verpflichtungen zu unterstützen, Anfragen von betroffenen Personen in Bezug auf deren Wahrnehmung ihrer Rechte gemäss der DSGVO zu beantworten;
--   die Anforderungen der DSGVO in Bezug auf Benachrichtigungen und Unterstützung bei einer Verletzung des Schutzes personenbezogener Daten zu erfüllen;
--   den Verantwortlichen bei der Datenschutz-Folgenabschätzung und der Konsultation der Aufsichtsbehörden zu unterstützen; 
--   personenbezogene Daten am Ende der Erbringung der Dienste zu löschen oder zurückzugeben; und
--   den Verantwortlichen durch Nachweise bezüglich der Einhaltung der DSGVO zu unterstützen.
+-	Unterauftragsverarbeiter nur mit der Zustimmung des Verantwortlichen einzusetzen und weiterhin für Unterauftragnehmer zu haften;
+-	personenbezogene Daten nur gemäss den Anweisungen des Verantwortlichen zu verarbeiten, auch im Hinblick auf eine Übermittlung der Daten;
+-	sicherzustellen, dass sich Personen, die personenbezogene Daten verarbeiten, zur Geheimhaltung solcher Daten verpflichtet haben;
+-	angemessene technische und organisatorische Massnahmen einzurichten, um ein Sicherheitsniveau für personenbezogene Daten zu gewährleisten, das für das jeweilige Risiko angemessen ist;
+-	den Verantwortlichen bei seinen Verpflichtungen zu unterstützen, Anfragen von betroffenen Personen in Bezug auf deren Wahrnehmung ihrer Rechte gemäss der DSGVO zu beantworten;
+-	die Anforderungen der DSGVO in Bezug auf Benachrichtigungen und Unterstützung bei einer Verletzung des Schutzes personenbezogener Daten zu erfüllen;
+-	den Verantwortlichen bei der Datenschutz-Folgenabschätzung und der Konsultation der Aufsichtsbehörden zu unterstützen; 
+-	personenbezogene Daten am Ende der Erbringung der Dienste zu löschen oder zurückzugeben; und
+-	den Verantwortlichen durch Nachweise bezüglich der Einhaltung der DSGVO zu unterstützen.
