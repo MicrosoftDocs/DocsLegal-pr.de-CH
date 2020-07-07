@@ -2,7 +2,7 @@
 # [Datenschutz-Grundverordnung (DSGVO)](gdpr.md)
 # [Lizenzbestimmungen für Azure-Software](/legal/information-protection/software-license-terms)
 # [Nutzungsbedingungen](/legal/termsofuse)
-&lt;!--&gt;
+<!-->
 ## [Baskisch](software-license-terms-eu-es.md)
 ## [Bulgarisch](software-license-terms-bg-bg.md)
 ## [Katalanisch ](software-license-terms-ca-es.md)
