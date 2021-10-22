@@ -6,17 +6,16 @@ author: ''
 manager: ''
 ms.date: 09/19/2018
 ms.topic: article
-ms.prod: ''
-ms.service: ''
+ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: 07d175c205ed781a0eef363d4e4015810c53c3bb
-ms.sourcegitcommit: 6925c5b4ad2faff22d877acd2e07e09d289b5507
+ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
+ms.sourcegitcommit: 3cfbabd1cd8dac0925815ab42ae1640787749fb7
 ms.translationtype: HT
 ms.contentlocale: de-CH
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "77570875"
+ms.lasthandoff: 08/14/2021
+ms.locfileid: "122177366"
 ---
 # <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com – Nutzungsbedingungen
 
@@ -34,7 +33,7 @@ Sofern nichts anderes angegeben ist, sind die Dienste für Ihre persönliche und
 
 ## <a name="privacy-and-protection-of-personal-information"></a>Datenschutz und Schutz persönlicher Informationen.
 
-Ihre Privatsphäre ist uns wichtig. Bitte lesen Sie die [Datenschutzerklärung von Microsoft](https://privacy.microsoft.com/en-us/privacystatement) (die «Datenschutzerklärung»), in der beschrieben wird, welche Arten von Daten wir über Sie und Ihre Geräte erheben, wie wir diese Daten verwenden und auf welchen Rechtsgrundlagen wir uns bei der Verarbeitung der Daten stützen. Die Datenschutzerklärung beschreibt auch, wie Microsoft die Einreichungen (wie hierin definiert), Kommentare, Bewertungen oder Bewertungen der Dienste, Kommunikationen, Dateien, Fotos, Dokumente, Audio, digitale Werke, Livestreams, Videos und alle anderen Inhalte, die Sie über die Dienste hochladen, speichern, senden oder teilen (zusammen «Ihre Inhalte»), verwendet. Sofern die Verarbeitung auf einer Einwilligung beruht und soweit gesetzlich zulässig, stimmen Sie mit der Zustimmung zu diesen Bedingungen der Erfassung, Nutzung und Offenlegung Ihrer Inhalte und Daten durch Microsoft zu, wie in der Datenschutzerklärung beschrieben. Gegebenenfalls werden wir, wie in den Datenschutzbestimmungen erläutert, hierauf getrennt hinweisen und Ihre Einwilligung einholen.
+Ihre Privatsphäre ist uns wichtig. Bitte lesen Sie die [Microsoft Datenschutzerklärung](https://privacy.microsoft.com/privacystatement) (die «Datenschutzerklärung»), da sie beschreibt, welche Arten von Daten wir von Ihnen und Ihren Geräten erfassen, wie wir diese Daten verwenden und welche Rechtsgrundlagen wir für die Verarbeitung dieser Daten haben. Die Datenschutzerklärung beschreibt auch, wie Microsoft die Einreichungen (wie hierin definiert), Kommentare, Bewertungen oder Bewertungen der Dienste, Kommunikationen, Dateien, Fotos, Dokumente, Audio, digitale Werke, Livestreams, Videos und alle anderen Inhalte, die Sie über die Dienste hochladen, speichern, senden oder teilen (zusammen «Ihre Inhalte»), verwendet. Sofern die Verarbeitung auf einer Einwilligung beruht und soweit gesetzlich zulässig, stimmen Sie mit der Zustimmung zu diesen Bedingungen der Erfassung, Nutzung und Offenlegung Ihrer Inhalte und Daten durch Microsoft zu, wie in der Datenschutzerklärung beschrieben. Gegebenenfalls werden wir, wie in den Datenschutzbestimmungen erläutert, hierauf getrennt hinweisen und Ihre Einwilligung einholen.
 
 **Öffentliche Benutzerinformationen und Inhalte**: Die von Ihnen bereitgestellten Benutzerinformationen (einschliesslich Ihres Benutzernamens, Anzeigenamens, Avatar-Abbildes, Ihrer Biographie, Ihrer Berufsposition und -organisation sowie Ihrer Benutzererfolge) können von anderen eingesehen werden. Sie müssen nur einen Benutzernamen und einen Anzeigenamen angeben, um das Tech Profile nutzen zu können. Alle anderen Felder sind optional. Sie können Ihren Benutzernamen aktualisieren und den angezeigten Namen jederzeit anzeigen. Microsoft kann auch das Datum, an dem Sie sich bei Tech Profile registriert haben, und Ihre Zugehörigkeit zu Microsoft erfassen und öffentlich anzeigen.
 
@@ -71,7 +70,7 @@ IN KEINEM FALL SIND MICROSOFT UND/ODER DEREN JEWEILIGE LIEFERANTEN HAFTBAR FÜR 
 
 Eventuell benötigen Sie ein Microsoft-Konto, ein Azure Active Directory-Konto oder ein Tech Profile-Konto, um auf einige der Dienste zuzugreifen.
 
-**Microsoft-Konto**. Über Ihr Microsoft-Konto können Sie sich bei Produkten, Websites und Diensten anmelden, die von Microsoft und einigen Microsoft-Partnern bereitgestellt werden. Ein Microsoft-Konto können Sie erstellen, indem Sie sich [online](https://signup.live.com/) registrieren. Microsoft-Konten unterliegen dem [Microsoft-Servicevertrag](https://www.microsoft.com/en-us/servicesagreement/).
+**Microsoft-Konto**. Über Ihr Microsoft-Konto können Sie sich bei Produkten, Websites und Diensten anmelden, die von Microsoft und einigen Microsoft-Partnern bereitgestellt werden. Ein Microsoft-Konto können Sie erstellen, indem Sie sich [online](https://signup.live.com/) registrieren. Microsoft Konten unterliegen dem [Microsoft Services Agreement](https://www.microsoft.com/servicesagreement/).
 
 **Azure Active Directory-Konto**. Möglicherweise haben Sie ein Konto bei Microsoft über die Organisation, der sie angehören. Bitte wenden Sie sich an den Administrator Ihres Unternehmens, um Informationen zu diesem Konto zu erhalten.
 
