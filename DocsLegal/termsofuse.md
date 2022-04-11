@@ -11,11 +11,11 @@ ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
 ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
-ms.sourcegitcommit: 3cfbabd1cd8dac0925815ab42ae1640787749fb7
+ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
 ms.translationtype: HT
 ms.contentlocale: de-CH
-ms.lasthandoff: 08/14/2021
-ms.locfileid: "122177366"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "141347452"
 ---
 # <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com – Nutzungsbedingungen
 
@@ -49,7 +49,7 @@ OHNE EINSCHRÄNKUNG DES VORHERGEHENDEN IST DAS KOPIEREN ODER VERVIELFÄLTIGEN DE
 
 WENN ÜBERHAUPT, GILT FÜR DIE SOFTWAREANWENDUNGEN NUR DIE IN DEN BESTIMMUNGEN DES LIZENZVERTRAGES GENANNTE GEWÄHRLEISTUNG. AUSSER WIE IM LIZENZVERTRAG GARANTIERT, SCHLIESST MICROSOFT CORPORATION HIERMIT ALLE GEWÄHRLEISTUNGEN UND GARANTIEN IN BEZUG AUF DIE SOFTWARE AUS, EINSCHLIESSLICH ALLER GEWÄHRLEISTUNGEN UND GARANTIEN IN BEZUG AUF HANDELSÜBLICHKEIT, GLEICH OB AUSDRÜCKLICH, KONKLUDENT ODER GESETZLICH, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK, TITEL UND NICHTVERLETZUNG VON RECHTEN DRITTER. ZU IHRER UNTERSTÜTZUNG STELLT MICROSOFT ALS BESTANDTEIL DER DIENSTE ODER IN IHREN SOFTWAREPRODUKTEN MÖGLICHERWEISE TOOLS UND DIENSTPROGRAMME ZUR VERWENDUNG UND/ODER ZUM DOWNLOAD ZUR VERFÜGUNG. MICROSOFT ERTEILT KEINE ZUSICHERUNGEN IM HINBLICK AUF DIE GENAUIGKEIT DER ERGEBNISSE ODER DER AUSGABEN, DIE AUS EINER SOLCHEN VERWENDUNG DIESER TOOLS UND DIENSTPROGRAMME STAMMEN. BITTE RESPEKTIEREN SIE DIE GEWERBLICHEN SCHUTZRECHTE UND DAS URHEBERRECHT ANDERER, WENN SIE DIE IN DEN DIENSTEN ODER IN MICROSOFT-SOFTWAREPRODUKTEN ZUR VERFÜGUNG GESTELLTEN TOOLS UND DIENSTPROGRAMME VERWENDEN.
 
-LEGENDE ZU EINGESCHRÄNKTEN RECHTEN. Jegliche Software, die für die USA, ihre Behörden und/oder ihre Einrichtungen («US -Regierung») oder in deren Auftrag von den Diensten heruntergeladen wird, wird mit Eingeschränkten Rechten bereitgestellt. Verwendung, Vervielfältigung oder Offenlegung durch die US-Regierung unterliegen den in Unterabsatz (c)(1)(ii) der Klausel «Rights in Technical Data and Computer Software» in DFARS 252.227-7013 oder den Unterabsätzen (c)(1) und (2) von «Commercial Computer Software – Restricted Rights» in 48 CFR 52.227-19 genannten anwendbaren Einschränkungen. Hersteller ist Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA.
+LEGENDE ZU EINGESCHRÄNKTEN RECHTEN. Jegliche Software, die für die USA, ihre Behörden und/oder ihre Einrichtungen («US -Regierung») oder in deren Auftrag von den Diensten heruntergeladen wird, wird mit Eingeschränkten Rechten bereitgestellt. Verwendung, Vervielfältigung oder Offenlegung durch die US- Regierung unterliegen den in Unterabsatz (c)(1)(ii) der Klausel «Rights in Technical Data and Computer Software» in DFARS 252.227-7013 oder den Unterabsätzen (c)(1) und (2) von «Commercial Computer Software – Restricted Rights» in 48 CFR 52.227-19 genannten anwendbaren Einschränkungen. Hersteller ist Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA.
 
 ## <a name="notice-specific-to-documents-available-on-this-website"></a>Spezieller Hinweis zu auf dieser Website verfügbarer Dokumentation
 
