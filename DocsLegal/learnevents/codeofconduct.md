@@ -1,15 +1,15 @@
 ---
 # required metadata
 
-title: Learn TV - Verhaltenskodex
-description: Learn TV - Verhaltenskodex
+title: Learn Events - Verhaltenskodex
+description: Verhaltenskodex für auf Microsoft Learn gestreamte Events
 ms.topic: article
 layout: ContentPage
 ms.author: brstegge
 ms.date: 11/02/2020
 ---
 
-# Learn TV - Verhaltenskodex
+# Learn Events Verhaltenskodex
 
 Microsofts Mission ist es, Menschen und Unternehmen auf der ganzen Welt dabei zu unterstützen, Spitzenleistungen zu erzielen. Dies umfasst alle Microsoft Events und Zusammenkünfte von Microsoft, einschliesslich digitaler Plattformen, in denen wir eine respektvolle, freundliche, unterhaltsame und integrative Erfahrung für alle Teilnehmer schaffen möchten.
 
