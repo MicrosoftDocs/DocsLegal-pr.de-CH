@@ -1,41 +1,41 @@
 ---
 title: Nutzungsbedingungen
-description: Nutzungsbedingungen für Dokumente auf docs.microsoft.com.
+description: Nutzungsbedingungen für Dokumente auf learn.microsoft.com.
 keywords: ''
 author: ''
 manager: ''
-ms.date: 09/19/2018
+ms.date: 09/17/2022
 ms.topic: article
 ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
+ms.openlocfilehash: 626e266caf6ba6b46149899bd8d6a78bb42302f2
+ms.sourcegitcommit: c60983f87856c154a8d94b208aea0d417c51b8b1
 ms.translationtype: HT
 ms.contentlocale: de-CH
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347452"
+ms.lasthandoff: 09/17/2022
+ms.locfileid: "147949558"
 ---
-# <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com – Nutzungsbedingungen
+# <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com – Nutzungsbedingungen
 
 ## <a name="acceptance-of-terms"></a>Annahme der Bedingungen
 
-Die folgenden Nutzungsbedingungen (Terms of Use, folgend «TOU») gelten für Ihre Nutzung der Website von Microsoft Docs ([https://docs.microsoft.com](https://docs.microsoft.com)), Tech Profile ([https://techprofile.microsoft.com](https://techprofile.microsoft.com)) und damit verbundenen Diensten. Microsoft behält sich das Recht vor, die TOU jederzeit ohne Benachrichtigung an Sie zu aktualisieren. Sie können die jeweils aktuelle Version der TOU durch Klicken auf den Hyperlink «Nutzungsbestimmungen» unten auf unseren Webseiten einsehen.
+Die folgenden Nutzungsbedingungen (Terms of Use, folgend «TOU») gelten für Ihre Nutzung der Website von Microsoft Learn ([https://learn.microsoft.com](https://learn.microsoft.com)), Tech Profile und damit verbundene Dienste. Microsoft behält sich das Recht vor, die TOU jederzeit ohne Benachrichtigung an Sie zu aktualisieren. Sie können die jeweils aktuelle Version der TOU durch Klicken auf den Hyperlink «Nutzungsbestimmungen» unten auf unseren Webseiten einsehen.
 
 ## <a name="description-of-service"></a>Beschreibung der Dienste
 
-Über die Microsoft Docs Website, Tech Profile und die damit verbundenen Dienste stellt Ihnen Microsoft den Zugriff auf eine Reihe von Ressourcen bereit, darunter interaktive Lernprogramme, Dokumentationen, Entwicklertools, Downloadbereiche, Kommunikationsforen und Produktinformationen (zusammen die «Dienste»). Die Dienste, einschliesslich aller Updates, Erweiterungen, neuer Features und/oder der Ergänzung neuer Webeigenschaften, unterliegen den TOU.
+Über die Microsoft Learn-Website, Tech Profile und die damit verbundenen Dienste stellt Ihnen Microsoft den Zugriff auf eine Reihe von Ressourcen bereit, darunter interaktive Schulungs-Tutorials, Dokumentationen, Videos, Entwicklertools, Downloadbereiche, Kommunikationsforen und Produktinformationen (zusammen die «Dienste»). Die Dienste, einschliesslich aller Updates, Erweiterungen, neuer Features und/oder der Ergänzung neuer Webeigenschaften, unterliegen den TOU.
 
 ## <a name="personal-and-non-commercial-use-limitation"></a>Beschränkung auf persönliche und nicht-gewerbliche Nutzung
 
-Sofern nichts anderes angegeben ist, sind die Dienste für Ihre persönliche und nichtgewerbliche Nutzung vorgesehen. Sie sind nicht berechtigt, Informationen, Software, Produkte oder Dienste, die Sie über die Dienste erlangen, zu verändern, zu kopieren, zu vertreiben, zu senden, öffentlich anzuzeigen, vorzuführen, zu vervielfältigen, zu veröffentlichen, zu lizenzieren, zu übertragen, zu verkaufen oder abgeleitete Werke hiervon zu erstellen (mit Ausnahme Ihrer eigenen, persönlichen, nicht gewerblichen Nutzung), ohne vorherige schriftliche Zustimmung von Microsoft..
+Sofern nichts anderes angegeben ist, sind die Dienste für Ihre persönliche und nichtgewerbliche Nutzung vorgesehen. Sie sind nicht berechtigt, Informationen, Software, Produkte oder Dienste, die Sie über die Dienste erlangen, zu verändern, zu kopieren, zu vertreiben, zu senden, öffentlich anzuzeigen, vorzuführen, zu vervielfältigen, zu veröffentlichen, zu lizenzieren, zu übertragen, zu verkaufen oder abgeleitete Werke hiervon zu erstellen (mit Ausnahme Ihrer eigenen, persönlichen, nicht gewerblichen Nutzung), ohne vorherige schriftliche Zustimmung von Microsoft.
 
 ## <a name="privacy-and-protection-of-personal-information"></a>Datenschutz und Schutz persönlicher Informationen.
 
 Ihre Privatsphäre ist uns wichtig. Bitte lesen Sie die [Microsoft Datenschutzerklärung](https://privacy.microsoft.com/privacystatement) (die «Datenschutzerklärung»), da sie beschreibt, welche Arten von Daten wir von Ihnen und Ihren Geräten erfassen, wie wir diese Daten verwenden und welche Rechtsgrundlagen wir für die Verarbeitung dieser Daten haben. Die Datenschutzerklärung beschreibt auch, wie Microsoft die Einreichungen (wie hierin definiert), Kommentare, Bewertungen oder Bewertungen der Dienste, Kommunikationen, Dateien, Fotos, Dokumente, Audio, digitale Werke, Livestreams, Videos und alle anderen Inhalte, die Sie über die Dienste hochladen, speichern, senden oder teilen (zusammen «Ihre Inhalte»), verwendet. Sofern die Verarbeitung auf einer Einwilligung beruht und soweit gesetzlich zulässig, stimmen Sie mit der Zustimmung zu diesen Bedingungen der Erfassung, Nutzung und Offenlegung Ihrer Inhalte und Daten durch Microsoft zu, wie in der Datenschutzerklärung beschrieben. Gegebenenfalls werden wir, wie in den Datenschutzbestimmungen erläutert, hierauf getrennt hinweisen und Ihre Einwilligung einholen.
 
-**Öffentliche Benutzerinformationen und Inhalte**: Die von Ihnen bereitgestellten Benutzerinformationen (einschliesslich Ihres Benutzernamens, Anzeigenamens, Avatar-Abbildes, Ihrer Biographie, Ihrer Berufsposition und -organisation sowie Ihrer Benutzererfolge) können von anderen eingesehen werden. Sie müssen nur einen Benutzernamen und einen Anzeigenamen angeben, um das Tech Profile nutzen zu können. Alle anderen Felder sind optional. Sie können Ihren Benutzernamen aktualisieren und den angezeigten Namen jederzeit anzeigen. Microsoft kann auch das Datum, an dem Sie sich bei Tech Profile registriert haben, und Ihre Zugehörigkeit zu Microsoft erfassen und öffentlich anzeigen.
+**Öffentliche Benutzerinformationen und Inhalte**: Die von Ihnen bereitgestellten Benutzerinformationen (einschliesslich Ihres Benutzernamens, Anzeigenamens, Avatarbilds, Ihrer Biographie, Ihrer Berufsposition und -organisation sowie Ihrer Benutzererfolge) können von anderen eingesehen werden. Sie müssen nur einen Benutzernamen und einen Anzeigenamen angeben, um das Tech Profile nutzen zu können. Alle anderen Felder sind optional. Sie können Ihren Benutzernamen aktualisieren und den angezeigten Namen jederzeit anzeigen. Microsoft kann auch das Datum, an dem Sie sich bei Tech Profile registriert haben, und Ihre Zugehörigkeit zu Microsoft erfassen und öffentlich anzeigen.
 
 Alle von Ihnen öffentlich geposteten Inhalte können auch von anderen eingesehen werden. Sie können bestimmte Arten von Inhalten löschen, nachdem sie gepostet wurden, jedoch nicht alle Arten von Inhalten können gelöscht werden, nachdem sie öffentlich gepostet wurden.
 
@@ -74,13 +74,13 @@ Eventuell benötigen Sie ein Microsoft-Konto, ein Azure Active Directory-Konto o
 
 **Azure Active Directory-Konto**. Möglicherweise haben Sie ein Konto bei Microsoft über die Organisation, der sie angehören. Bitte wenden Sie sich an den Administrator Ihres Unternehmens, um Informationen zu diesem Konto zu erhalten.
 
-**Tech Profile-Konto**. Mit Ihrem Tech Profile-Konto können Sie sich auf der Microsoft Docs-Website anmelden und die damit verbundenen Dienste nutzen, einschliesslich kostenlosem Zugriff auf Lernressourcen, Freischaltung von Leistungen, Bewertungen, Kommentarfunktionen, Posten von Inhalten und Nutzung anderer interaktiver Dienste. Sie können ein Tech Profile-Konto erstellen, indem Sie einen Benutzernamen im [Tech Profile](https://techprofile.microsoft.com/) nach dem Anmelden mit einem Microsoft-Konto oder Azure Active Directory-Konto erstellen.
+**Tech Profile-Konto**. Mit Ihrem Tech Profile-Konto können Sie sich auf der Microsoft Learn-Website anmelden und die damit verbundenen Dienste nutzen, einschliesslich kostenlosem Zugriff auf Schulungsressourcen, Freischaltung von Leistungen, Bewertungen, Kommentarfunktionen, Posten von Inhalten und Nutzung anderer interaktiver Dienste. Sie können ein Tech Profile-Konto erstellen, indem Sie einen Benutzernamen im Tech Profile nach dem Anmelden mit einem Microsoft-Konto oder Azure Active Directory-Konto erstellen.
 
 Sie verpflichten sich, bei der Anmeldung Ihres Tech Profile-Kontos keine falschen, ungenauen oder irreführenden Angaben zu machen. Für die Wahrung der Vertraulichkeit Ihres Kennworts und Accounts tragen Sie die volle Verantwortung. Darüber hinaus sind Sie alleinig für sämtliche Aktivitäten unter Ihrem Konto verantwortlich. Sie erklären sich damit einverstanden, Microsoft umgehend über jede unerlaubte Nutzung Ihres Kontos und jegliche andere Verletzung der Sicherheit zu benachrichtigen. Microsoft haftet nicht für Verluste, die Ihnen möglicherweise entstehen, wenn jemand anderes Ihr Kennwort oder Konto entweder mit Ihrem oder ohne Ihr Wissen verwendet. Sie können jedoch möglicherweise für Verluste haftbar gemacht werden, die Microsoft oder einer anderen Partei entstehen, wenn jemand anderes Ihr Konto oder Kennwort verwendet. Sie sind nicht berechtigt, zu irgendeinem Zeitpunkt das Konto einer anderen Person ohne Genehmigung des Kontoinhabers zu verwenden.
 
 Wenn Sie ein Tech Profile-Konto im Namen einer juristischen Person, wie z. B. Ihres Unternehmens oder Arbeitgebers, erstellen, sichern Sie zu, dass Sie rechtlich befugt sind, diese juristische Person an die vorliegenden Bestimmungen zu binden. Sie können Ihr Tech Profile-Kontozugangsdaten nicht an einen anderen Nutzer oder eine andere juristische Person übertragen. Zum Schutz Ihres Kontos haben Sie Ihre Kontodetails vertraulich zu behandeln. Sie sind für alle Aktivitäten im Zusammenhang mit Ihrem Tech Profile-Konto verantwortlich.
 
-Sie können Ihr Tech Profile-Konto schliessen, indem Sie auf Ihre [Tech Profile-Kontoeinstellungen](https://techprofile.microsoft.com/edit/) zugreifen.
+Sie können Ihr Tech Profile-Konto schliessen, indem Sie auf Ihre Tech Profile-Kontoeinstellungen zugreifen.
 
 ## <a name="no-unlawful-or-prohibited-use"></a>Keine rechtswidrige oder verbotene Nutzung
 
