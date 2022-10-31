@@ -10,12 +10,12 @@ ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: e3775ca714120078c7b616711a00ee5ca2959b22
-ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
+ms.openlocfilehash: f20755cc9856e52068eb3189dbd12ebf90e4761c
+ms.sourcegitcommit: cf1db1b6138ad34406183a2735eab11b3293b130
 ms.translationtype: HT
 ms.contentlocale: de-CH
-ms.lasthandoff: 09/27/2022
-ms.locfileid: "147979720"
+ms.lasthandoff: 10/21/2022
+ms.locfileid: "148103191"
 ---
 # <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com – Nutzungsbedingungen
 
@@ -70,7 +70,7 @@ IN KEINEM FALL SIND MICROSOFT UND/ODER DEREN JEWEILIGE LIEFERANTEN HAFTBAR FÜR 
 
 Eventuell benötigen Sie ein Microsoft-Konto, ein Azure Active Directory-Konto oder ein Tech Profile-Konto, um auf einige der Dienste zuzugreifen.
 
-**Microsoft-Konto**. Über Ihr Microsoft-Konto können Sie sich bei Produkten, Websites und Diensten anmelden, die von Microsoft und einigen Microsoft-Partnern bereitgestellt werden. Ein Microsoft-Konto können Sie erstellen, indem Sie sich [online](https://signup.live.com/) registrieren. Microsoft Konten unterliegen dem [Microsoft Services Agreement](https://www.microsoft.com/servicesagreement/).
+**Microsoft-Konto**. Über Ihr Microsoft-Konto können Sie sich bei Produkten, Websites und Diensten anmelden, die von Microsoft und einigen Microsoft-Partnern bereitgestellt werden. Sie können [ein Microsoft-Konto erstellen, indem Sie sich online registrieren](https://signup.live.com/). Microsoft Konten unterliegen dem [Microsoft Services Agreement](https://www.microsoft.com/servicesagreement/).
 
 **Azure Active Directory-Konto**. Möglicherweise haben Sie ein Konto bei Microsoft über die Organisation, der sie angehören. Bitte wenden Sie sich an den Administrator Ihres Unternehmens, um Informationen zu diesem Konto zu erhalten.
 
