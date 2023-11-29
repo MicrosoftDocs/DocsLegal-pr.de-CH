@@ -1,7 +1,7 @@
 ---
 title: Datenschutz-Grundverordnung (DSGVO)
 description: DSGVO learn.microsoft.com.
-ms.topic: article
+ms.topic: legal
 ms.prod: legal
 layout: ContentPage
 ms.openlocfilehash: 1fd23b342c8822a527df59cf1785eb7cb1d0d9a4
