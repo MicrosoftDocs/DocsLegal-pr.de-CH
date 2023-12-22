@@ -4,13 +4,13 @@ description: 'Informationen zu den Nutzungsbedingungen von Microsoft, zur DSGVO,
 author: GrantMeStrength
 ms.author: jken
 ms.prod: legal
-ms.topic: article
+ms.topic: legal
 ms.date: 11/25/2020
 ---
 
 
 
-# <a name="microsoft-legal-resources-on-learnmicrosoftcom"></a>Rechtliche Ressourcen von Microsoft auf learn.microsoft.com
+# Rechtliche Ressourcen von Microsoft auf learn.microsoft.com
 
 Nachfolgend sind Links zu rechtlichen Ressourcen aufgeführt.
 

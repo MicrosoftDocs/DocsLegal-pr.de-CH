@@ -6,27 +6,27 @@ keywords: null
 author: null
 manager: null
 ms.date: 09/17/2022
-ms.topic: article
+ms.topic: legal
 ms.prod: legal
 ms.technology: null
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
 ---
-# <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com – Nutzungsbedingungen
+# learn.microsoft.com – Nutzungsbedingungen
 
-## <a name="acceptance-of-terms"></a>Annahme der Bedingungen
+## Annahme der Bedingungen
 
 Die folgenden Nutzungsbedingungen (Terms of Use, folgend «TOU») gelten für Ihre Nutzung der Website von Microsoft Learn ([https://learn.microsoft.com](https://learn.microsoft.com)), Tech Profile und damit verbundene Dienste. Microsoft behält sich das Recht vor, die TOU jederzeit ohne Benachrichtigung an Sie zu aktualisieren. Sie können die jeweils aktuelle Version der TOU durch Klicken auf den Hyperlink «Nutzungsbestimmungen» unten auf unseren Webseiten einsehen.
 
-## <a name="description-of-service"></a>Beschreibung der Dienste
+## Beschreibung der Dienste
 
 Über die Microsoft Learn-Website, Tech Profile und die damit verbundenen Dienste stellt Ihnen Microsoft den Zugriff auf eine Reihe von Ressourcen bereit, darunter interaktive Schulungs-Tutorials, Dokumentationen, Videos, Entwicklertools, Downloadbereiche, Kommunikationsforen und Produktinformationen (zusammen die «Dienste»). Die Dienste, einschliesslich aller Updates, Erweiterungen, neuer Features und/oder der Ergänzung neuer Webeigenschaften, unterliegen den TOU.
 
-## <a name="personal-and-non-commercial-use-limitation"></a>Beschränkung auf persönliche und nicht-gewerbliche Nutzung
+## Beschränkung auf persönliche und nicht-gewerbliche Nutzung
 
 Sofern nichts anderes angegeben ist, sind die Dienste für Ihre persönliche und nichtgewerbliche Nutzung vorgesehen. Sie sind nicht berechtigt, Informationen, Software, Produkte oder Dienste, die Sie über die Dienste erlangen, zu verändern, zu kopieren, zu vertreiben, zu senden, öffentlich anzuzeigen, vorzuführen, zu vervielfältigen, zu veröffentlichen, zu lizenzieren, zu übertragen, zu verkaufen oder abgeleitete Werke hiervon zu erstellen (mit Ausnahme Ihrer eigenen, persönlichen, nicht gewerblichen Nutzung), ohne vorherige schriftliche Zustimmung von Microsoft.
 
-## <a name="privacy-and-protection-of-personal-information"></a>Datenschutz und Schutz persönlicher Informationen.
+## Datenschutz und Schutz persönlicher Informationen.
 
 Ihre Privatsphäre ist uns wichtig. Bitte lesen Sie die [Microsoft Datenschutzerklärung](https://privacy.microsoft.com/privacystatement) (die «Datenschutzerklärung»), da sie beschreibt, welche Arten von Daten wir von Ihnen und Ihren Geräten erfassen, wie wir diese Daten verwenden und welche Rechtsgrundlagen wir für die Verarbeitung dieser Daten haben. Die Datenschutzerklärung beschreibt auch, wie Microsoft die Einreichungen (wie hierin definiert), Kommentare, Bewertungen oder Bewertungen der Dienste, Kommunikationen, Dateien, Fotos, Dokumente, Audio, digitale Werke, Livestreams, Videos und alle anderen Inhalte, die Sie über die Dienste hochladen, speichern, senden oder teilen (zusammen «Ihre Inhalte»), verwendet. Sofern die Verarbeitung auf einer Einwilligung beruht und soweit gesetzlich zulässig, stimmen Sie mit der Zustimmung zu diesen Bedingungen der Erfassung, Nutzung und Offenlegung Ihrer Inhalte und Daten durch Microsoft zu, wie in der Datenschutzerklärung beschrieben. Gegebenenfalls werden wir, wie in den Datenschutzbestimmungen erläutert, hierauf getrennt hinweisen und Ihre Einwilligung einholen.
 
@@ -34,7 +34,7 @@ Ihre Privatsphäre ist uns wichtig. Bitte lesen Sie die [Microsoft Datenschutzer
 
 Alle von Ihnen öffentlich geposteten Inhalte können auch von anderen eingesehen werden. Sie können bestimmte Arten von Inhalten löschen, nachdem sie gepostet wurden, jedoch nicht alle Arten von Inhalten können gelöscht werden, nachdem sie öffentlich gepostet wurden.
 
-## <a name="notice-specific-to-software-available-on-this-website"></a>Spezieller Hinweis zu auf dieser Website verfügbarer Software
+## Spezieller Hinweis zu auf dieser Website verfügbarer Software
 
 Software, die zum Download von den Diensten zur Verfügung gestellt wird, ("Software") ist das urheberrechtlich geschützte Werk von Microsoft und/oder ihren Lieferanten. Die Verwendung der Software unterliegt gegebenenfalls den Bestimmungen eines beiliegenden oder in der Software enthaltenen Endbenutzerlizenzvertrages («Lizenzvertrag»). Ein Endbenutzer kann Software, der ein Lizenzvertrag beiliegt oder die einen Lizenzvertrag umfasst, nur nach vorheriger Zustimmung zu den Geschäftsbedingungen des Lizenzvertrags installieren. Skripte oder Codes von Dritten, die auf dieser Website verlinkt oder referenziert werden, werden von den Dritten, die Eigentümer des Codes sind, an Sie lizenziert, nicht von Microsoft.
 
@@ -46,14 +46,14 @@ WENN ÜBERHAUPT, GILT FÜR DIE SOFTWAREANWENDUNGEN NUR DIE IN DEN BESTIMMUNGEN D
 
 LEGENDE ZU EINGESCHRÄNKTEN RECHTEN. Jegliche Software, die für die USA, ihre Behörden und/oder ihre Einrichtungen («US -Regierung») oder in deren Auftrag von den Diensten heruntergeladen wird, wird mit Eingeschränkten Rechten bereitgestellt. Verwendung, Vervielfältigung oder Offenlegung durch die US- Regierung unterliegen den in Unterabsatz (c)(1)(ii) der Klausel «Rights in Technical Data and Computer Software» in DFARS 252.227-7013 oder den Unterabsätzen (c)(1) und (2) von «Commercial Computer Software – Restricted Rights» in 48 CFR 52.227-19 genannten anwendbaren Einschränkungen. Hersteller ist Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA.
 
-## <a name="notice-specific-to-documents-available-on-this-website"></a>Spezieller Hinweis zu auf dieser Website verfügbarer Dokumentation
+## Spezieller Hinweis zu auf dieser Website verfügbarer Dokumentation
 
 Bestimmte Dokumentationen unterliegen unter Umständen ausdrücklichen Lizenzbestimmungen, die sich von den hierin enthaltenen Bestimmungen unterscheiden. Im Falle von Widersprüchen zwischen diesen unterschiedlichen Bestimmungen haben die ausdrücklichen Bestimmungen Vorrang.
 Die Genehmigung zur Nutzung von Dokumenten (wie Whitepapers, Pressemitteilungen, Datenblättern und FAQs) aus den Diensten wird unter folgenden Bedingungen erteilt: (1) der nachstehende Urheberrechtshinweis ist in allen Kopien enthalten und der Urheberrechtshinweis und dieser Genehmigungshinweis sind darin enthalten, (2) diese Dokumente aus den Diensten werden nur zu Informationszwecken sowie zu nichtgewerblichen und persönlichen Zwecken genutzt und werden nicht auf einen Netzwerkcomputer kopiert oder übertragen oder in Medien gesendet, und (3) es werden keine Änderungen an den Dokumenten vorgenommen. Zugelassene Bildungseinrichtungen, wie Schulen, Universitäten, private/öffentliche Hochschulen und staatliche Hochschulen, sind berechtigt, die Dokumente zur Weitergabe im Unterricht herunterzuladen und zu vervielfältigen. Für die Weitergabe ausserhalb des Unterrichts ist eine ausdrückliche schriftliche Genehmigung erforderlich. Die Nutzung für andere Zwecke ist per Gesetz ausdrücklich untersagt und kann schwerwiegende zivil- und strafrechtliche Folgen haben. Zuwiderhandlungen werden strengstens verfolgt.
 
 Die oben genannten Dokumente beinhalten nicht das Design oder Layout der Website «Microsoft.com» oder einer anderen Website, die im Eigentum von Microsoft steht oder von Microsoft betrieben, lizenziert oder kontrolliert wird. Die Elemente der Microsoft-Websites sind durch Gesetze zu Handelsaufmachung, Marken, unlauterem Wettbewerb und andere Gesetze geschützt und dürfen weder als Ganzes noch in Teilen kopiert oder nachgeahmt werden. Logos, Grafiken, Ton und Bilder von Microsoft-Websites dürfen nicht kopiert oder weiter übermittelt werden, es sei denn, dies wurde von Microsoft ausdrücklich genehmigt.
 
-## <a name="disclaimer-and-limitation-of-liability-for-the-services"></a>Ausschluss und Haftungsbeschränkung der Dienste
+## Ausschluss und Haftungsbeschränkung der Dienste
 
 MICROSOFT UND/ODER IHRE JEWEILIGEN LIEFERANTEN GEBEN KEINE ZUSICHERUNGEN HINSICHTLICH DER EIGNUNG DER DIENSTE ODER DER EIGNUNG DER IN DEN DOKUMENTEN ENTHALTENEN INFORMATIONEN UND ZUGEHÖRIGEN GRAFIKEN, DIE ALS BESTANDTEIL DER DIENSTE VERÖFFENTLICHT WERDEN, FÜR BELIEBIGE ZWECKE. ALL DIENSTDOKUMENTE UND ZUGEHÖRIGEN GRAFIKEN WERDEN «WIE BESEHEN» OHNE GEWÄHRLEISTUNG JEGLICHER ART ZUR VERFÜGUNG GESTELLT. MICROSOFT UND/ODER IHRE JEWEILIGEN LIEFERANTEN SCHLIESSEN HIERMIT SÄMTLICHE GEWÄHRLEISTUNGEN UND GARANTIEN IN BEZUG AUF DIESE DIENSTE, INFORMATIONEN UND DAZUGEHÖRIGEN GRAFIKEN AUS, EINSCHLIESSLICH SÄMTLICHER AUSDRÜCKLICHER, KONKLUDENTER ODER GESETZLICHER GEWÄHRLEISTUNGEN UND GARANTIEN HINSICHTLICH HANDELSÜBLICHKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK, EIGENTUM UND NICHTVERLETZUNG VON RECHTEN DRITTER. IN KEINEM FALL SIND MICROSOFT UND/ODER DEREN JEWEILIGE LIEFERANTEN HAFTBAR FÜR IRGENDWELCHE SPEZIELLEN, INDIREKTEN ODER FOLGESCHÄDEN ODER ANDERE SCHÄDEN WELCHER ART AUCH IMMER AUS ENTGANGENER NUTZUNG, VERLUST VON DATEN ODER ENTGANGENEM GEWINN, GLEICH OB DURCH EINE VERTRAGSHANDLUNG, FAHRLÄSSIGKEIT ODER ANDERE UNERLAUBTE HANDLUNGEN ENTSTANDEN, DIE AUS DEN DIENSTEN, EINSCHLIESSLICH DER VERWENDUNG ODER DER LEISTUNG VON INFORMATIONEN, DIE IN DEN DIENSTEN ERHÄLTLICH SIND, RESULTIEREN ODER DAMIT IN ZUSAMMENHANG STEHEN.
 
@@ -61,7 +61,7 @@ DIE IN DEN DIENSTEN VERÖFFENTLICHTEN DOKUMENTE UND DIE DAZUGEHÖRIGEN GRAFIKEN 
 
 IN KEINEM FALL SIND MICROSOFT UND/ODER DEREN JEWEILIGE LIEFERANTEN HAFTBAR FÜR IRGENDWELCHE SPEZIELLEN, INDIREKTEN ODER FOLGESCHÄDEN ODER ANDERE SCHÄDEN WELCHER ART AUCH IMMER AUS ENTGANGENER NUTZUNG, VERLUST VON DATEN ODER ENTGANGENEM GEWINN, GLEICH OB DURCH EINE VERTRAGSHANDLUNG, FAHRLÄSSIGKEIT ODER ANDERE UNERLAUBTE HANDLUNGEN ENTSTANDEN, DIE AUS DER VERWENDUNG ODER DER LEISTUNG VON DEN DIENSTEN, DER SOFTWARE, DEN DOKUMENTEN, DER BEREITSTELLUNG ODER NICHTBEREITSTELLUNG VON DIENSTEN ODER AUS IN DEN DIENSTEN VERFÜGBAREN INFORMATIONEN RESULTIEREN ODER DAMIT IN ZUSAMMENHANG STEHEN.
 
-## <a name="tech-profile-account-password-and-security"></a>Tech Profile-Konto, Kennwort und Sicherheit
+## Tech Profile-Konto, Kennwort und Sicherheit
 
 Eventuell benötigen Sie ein Microsoft-Konto, ein Azure Active Directory-Konto oder ein Tech Profile-Konto, um auf einige der Dienste zuzugreifen.
 
@@ -77,11 +77,11 @@ Wenn Sie ein Tech Profile-Konto im Namen einer juristischen Person, wie z. B. I
 
 Sie können Ihr Tech Profile-Konto schliessen, indem Sie auf Ihre Tech Profile-Kontoeinstellungen zugreifen.
 
-## <a name="no-unlawful-or-prohibited-use"></a>Keine rechtswidrige oder verbotene Nutzung
+## Keine rechtswidrige oder verbotene Nutzung
 
 Als Bedingung für Ihre Verwendung der Dienste werden Sie die Dienste nicht zu rechtswidrigen oder von diesen Bestimmungen und Hinweisen verbotenen Zwecken verwenden. Sie sind nicht berechtigt, die Dienste auf eine Weise zu verwenden, die einen Server von Microsoft oder das/die mit einem Server von Microsoft verbundene(n) Netzwerk(e) beschädigen, unbrauchbar machen, überlasten oder beeinträchtigen oder die Verwendung der Dienste durch eine andere Partei stören könnte. Sie dürfen nicht versuchen, sich durch Ausspähen von Kennwörtern oder sonstige Methoden unerlaubt Zugriff auf Dienste, andere Konten, Computersysteme oder Netzwerke, die mit einem Server von Microsoft oder einem der Dienste verbunden sind, zu verschaffen. Sie sind nicht berechtigt, auf eine Weise, die nicht absichtlich durch die Dienste verfügbar gemacht wurde, Materialien oder Informationen zu erhalten oder zu versuchen, diese zu erhalten.
 
-## <a name="use-of-services"></a>Verwendung von Diensten
+## Verwendung von Diensten
 
 Die Dienste können E-Mail-Dienste, Pinnwände, Chaträume, Foren, Communities, persönliche Webseiten, Kalender, Fotoalben, Archive und/oder andere Benachrichtigungs- oder Kommunikationssysteme umfassen, die Ihnen die Kommunikation mit anderen ermöglichen sollen («Kommunikationsdienste»). Sie stimmen zu, unter Verwendung der Diensten nur solche Nachrichten und Materialien zu posten, zu verschicken und zu empfangen, die angemessen sind und gegebenenfalls mit dem jeweiligen Dienst in Zusammenhang stehen. Sie erklären sich damit einverstanden, dass Sie bei Verwendung der Kommunikationsdienste:
 
@@ -111,7 +111,7 @@ In die Dienste hochgeladene Materialien unterliegen unter Umständen veröffentl
 
 Möglicherweise sind die Videos und eBooks in englischer Sprache. Wenn Sie auf die Links klicken, können Sie auf eine U.S.-Website umgeleitet werden, deren Inhalt ausschliesslich auf Englisch ist.
 
-## <a name="materials-provided-to-microsoft-or-posted-to-the-services"></a>Materialien, die Microsoft bereitgestellt oder auf den Diensten gepostet werden
+## Materialien, die Microsoft bereitgestellt oder auf den Diensten gepostet werden
 
 Microsoft beansprucht kein Eigentum an den Materialien, die Sie Microsoft bereitstellen (einschliesslich Feedback und Vorschläge) oder an/auf/in Dienste oder deren dazugehörige Dienste zur Überprüfung durch die allgemeine Öffentlichkeit oder durch Mitglieder einer öffentlichen oder privaten Community veröffentlichen, hochladen, eingeben oder einsenden (jedes eine «Einsendung» und zusammengefasst «Einsendungen»). Indem Sie Ihre Einsendung veröffentlichen, hochladen, eingeben, zur Verfügung stellen oder einsenden («bereitstellen»), erteilen Sie jedoch Microsoft, ihren verbundenen Unternehmen und erforderlichen Unterlizenznehmern die Genehmigung, Ihre Einsendung in Verbindung mit dem Betrieb ihrer Internetgeschäfte (einschliesslich, ohne Einschränkung, aller Microsoft-Dienste) zu verwenden, einschliesslich, ohne Einschränkung, der Lizenzrechte für folgende Tätigkeiten: Kopieren, Vertreiben, Senden, öffentliches Ausstellen, öffentliches Vorführen, Vervielfältigen, Bearbeiten, Übersetzen und Neuformatieren Ihrer Einsendung, Veröffentlichen Ihres Namens in Verbindung mit Ihrer Einsendung sowie das Recht, diese Rechte an die Lieferanten der Dienste unterzulizenzieren.
 
@@ -121,16 +121,16 @@ Indem Sie eine Einsendung veröffentlichen, sichern Sie zu, dass Sie der Eigent�
 
 Zusätzlich zu der oben dargelegten Zusicherung sichern Sie, indem Sie eine Einsendung veröffentlichen, die Bilder oder Fotografien enthält oder die als Ganzes oder in Teilen anderweitig grafisch ist («Bilder»), zu, dass (a) Sie der Urheberrechtsinhaber dieser Bilder sind oder der Urheberrechtsinhaber dieser Bilder Ihnen die Genehmigung erteilt hat, diese Bilder oder Inhalt und/oder Bilder, der bzw. die in diesen Bildern enthalten ist bzw. sind, in Übereinstimmung mit der Art und dem Zweck Ihrer Verwendung und wie durch diese Nutzungsgeschäftsbedingungen anderweitig gestattet zu verwenden, (b) Sie über die Rechte verfügen, die notwendig sind, um die in diesen Nutzungsgeschäftsbedingungen beschriebenen Lizenzen und Unterlizenzen gewähren zu können, und (c) dass jede auf diesen Bildern abgebildete Person, sofern vorhanden, ihre Zustimmung zur Verwendung der Bilder wie in diesen Nutzungsgeschäftsbedingungen dargelegt, z. B., aber nicht ausschliesslich, für den Vertrieb, die öffentliche Ausstellung und Vervielfältigung dieser Bilder, erteilt hat. Indem Sie Bilder veröffentlichen, erteilen Sie (a) allen Mitgliedern Ihrer privaten Community (für jedes dieser Bilder, das für Mitglieder einer solchen privaten Community verfügbar ist) und/oder (b) der allgemeinen Öffentlichkeit (für jedes dieser Bilder, das an anderer Stelle als in einer privaten Community in den Diensten verfügbar ist) die Genehmigung, Ihre Bilder im Zusammenhang mit der Verwendung der Dienste zu verwenden, wie von diesen Nutzungsgeschäftsbedingungen gestattet (z. B., aber nicht ausschliesslich, für das Herstellen von Drucken und Geschenkartikeln, die diese Bilder enthalten), und einschliesslich, ohne Einschränkung, einer nicht ausschliesslichen, weltweiten, lizenzgebührenfreien Lizenz für Folgendes: Kopieren, Vertreiben, Senden, öffentliches Ausstellen, öffentliches Aufführen, Vervielfältigen, Bearbeiten, Übersetzen und Neuformatieren Ihrer Bilder, ohne dass Ihr Name an diese Bilder angefügt wird, sowie das Recht, diese Rechte an die Lieferanten der Dienste zu unterlizenzieren. Die in den vorstehenden Sätzen für Bilder gewährten Lizenzen enden zu dem Zeitpunkt, an dem Sie diese Bilder vollständig aus den Diensten entfernen, vorausgesetzt, dass diese Beendigung keine Auswirkungen auf Lizenzen hat, die im Zusammenhang mit diesen Bildern vor dem Zeitpunkt, an dem Sie diese Bilder vollständig entfernen, gewährt wurden. Im Hinblick auf die Verwendung Ihrer Bilder wird keine Vergütung gezahlt.
 
-## <a name="notices-and-procedure-for-making-claims-of-copyright-infringement"></a>Hinweise und Verfahren zur Geltendmachung von Ansprüchen bei Urheberrechtsverletzungen
+## Hinweise und Verfahren zur Geltendmachung von Ansprüchen bei Urheberrechtsverletzungen
 
 Gemäss Titel 17 des United States Code, Abschnitt 512(c)(2) müssen Benachrichtigungen über Ansprüche bei Urheberrechtsverletzungen an den benannten Vertreter des Serviceproviders gesendet werden. ALLE ANFRAGEN, DIE SICH NICHT AUF DAS FOLGENDE VERFAHREN BEZIEHEN, WERDEN NICHT BEANTWORTET.
 Siehe [Hinweis und Verfahren zur Erhebung von Ansprüchen bei Urheberrechtsverletzungen](https://www.microsoft.com/info/cpyrtinfrg.aspx).
 
-## <a name="links-to-third-party-sites"></a>Links zu Websites von Dritten
+## Links zu Websites von Dritten
 
 DIE LINKS IN DIESEM DIENST ERLAUBEN ES IHNEN MÖGLICHERWEISE, DIE WEBSITE VON MICROSOFT ZU VERLASSEN. DIE VERKNÜPFTEN WEBSITES STEHEN NICHT UNTER DER KONTROLLE VON MICROSOFT, UND MICROSOFT IST NICHT FÜR DEN INHALT IRGENDEINER VERKNÜPFTEN WEBSITE ODER FÜR IRGENDWELCHE IN EINER VERKNÜPFTEN WEBSITE ENTHALTENEN LINKS ODER ÄNDERUNGEN ODER UPDATES SOLCHER WEBSITES VERANTWORTLICH. MICROSOFT IST NICHT FÜR WEBCASTING ODER EINE ANDERE FORM DER ÜBERTRAGUNG VERANTWORTLICH, DIE VON EINER VERKNÜPFTEN WEBSITE EMPFANGEN WIRD. MICROSOFT STELLT IHNEN DIESE LINKS NUR GEFÄLLIGKEITSHALBER ZUR VERFÜGUNG. DARAUS KANN KEINE BILLIGUNG DER WEBSITE DURCH MICROSOFT ABGELEITET WERDEN.
 
-## <a name="unsolicited-idea-submission-policy-reservation-of-rights-and-feedback"></a>Richtlinie zur Einsendung unverlangter Ideen, Reservierung von Rechten und Feedback
+## Richtlinie zur Einsendung unverlangter Ideen, Reservierung von Rechten und Feedback
 
 MICROSOFT UND DEREN MITARBEITER AKZEPTIEREN UND BERÜCKSICHTIGEN KEINE UNVERLANGTEN IDEEN, EINSCHLIESSLICH IDEEN FÜR NEUE WERBEKAMPAGNEN, NEUE VERKAUFSFÖRDERUNGEN, NEUE PRODUKTE ODER TECHNOLOGIEN, PROZESSE, MATERIALIEN, MARKETINGPLÄNE ODER NEUE PRODUKTNAMEN. BITTE SENDEN SIE KEINE ORIGINALEN KREATIVEN KUNSTWERKE, BEISPIELE, DEMOS ODER ANDERE WERKE EIN. DER EINZIGE ZWECK DIESER RICHTLINIE BESTEHT DARIN, POTENZIELLE MISSVERSTÄNDNISSE ODER RECHTSSTREITIGKEITEN ZU VERMEIDEN, WENN DIE PRODUKTE ODER MARKETINGSTRATEGIEN VON MICROSOFT MÖGLICHERWEISE IDEEN ÄHNELN, DIE AN MICROSOFT GESENDET WURDEN. SENDEN SIE DAHER BITTE KEINE UNVERLANGTEN IDEEN AN MICROSOFT ODER AN PERSONEN BEI MICROSOFT. WENN SIE TROTZ UNSERER BITTE, UNS KEINE IDEEN UND MATERIALIEN ZU SENDEN, DIESE DENNOCH AN UNS SENDEN, HABEN SIE BITTE VERSTÄNDNIS DAFÜR, DASS MICROSOFT KEINE ZUSICHERUNGEN ERTEILT, DASS IHRE IDEEN UND MATERIALIEN ALS VERTRAULICH ODER ALS IHNEN EIGEN BEHANDELT WERDEN.
 
