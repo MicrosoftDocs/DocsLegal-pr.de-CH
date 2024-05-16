@@ -1,15 +1,13 @@
 ---
-# required metadata
 title: Microsoft-Entwicklervereinbarung
 description: Microsoft-Entwicklervereinbarung learn.microsoft.com
 author: gregtouchton
 ms.service: active-directory
-ms.topic: article
 ms.date: 06/15/2018
 ms.author: grtoucht
 layout: ContentPage
 ---
-# <a name="microsoft-developer-agreement"></a>Microsoft-Entwicklervereinbarung
+# Microsoft-Entwicklervereinbarung
 
 ---
 Letztes Update: Juni 2018
@@ -19,7 +17,7 @@ Dieser Vertrag wird zwischen Ihnen und der Microsoft Corporation („**Microsoft
 Wenn Sie diese Vereinbarung im Namen eines Unternehmens, z. B. Ihres Arbeitgebers, abschliessen, versichern Sie, dass Sie rechtlich befugt sind, dieses Unternehmen zu binden.
 Wenn Sie in Verbindung mit der Anmeldung oder Bestellung eines Dienstes einen Firmennamen angeben, wird davon ausgegangen, dass Sie diese Bestellung aufgegeben und diese Vereinbarung im Namen dieser Organisation oder dieses Unternehmens abgeschlossen haben. Die wichtigsten Begriffe werden in Abschnitt 10 definiert.
 
-## <a name="1-offerings"></a>1. Angebote
+## 1. Angebote
 
 1. **APIs.** Ihr Zugriff auf und Ihre Nutzung von Microsofts APIs unterliegen bestimmten Bedingungen und Konditionen. Als Entwickler sind Sie für Ihre Anwendung und die Einhaltung aller Gesetze und Vorschriften verantwortlich, die für die Verwendung der APIs von Microsoft gelten, einschliesslich der Gesetze und Vorschriften, die für den Schutz der Privatsphäre, biometrische Daten, Datenschutz und die Vertraulichkeit der Kommunikation gelten. Keine unserer massgeblichen Vereinbarungen oder diese Vereinbarung ist so auszulegen, dass eine gemeinsame Kontrollinstanz oder eine Beziehung zwischen Verarbeiter und Unterverarbeiter zwischen Ihnen und Microsoft entsteht.
 
@@ -33,7 +31,7 @@ Wenn Sie in Verbindung mit der Anmeldung oder Bestellung eines Dienstes einen Fi
 
 2. **Dienste.**
 
-    1. **Recht zur Nutzung.**  Wir können Ihnen das Recht einräumen, auf die Dienste zuzugreifen und sie in Übereinstimmung mit dieser Vereinbarung zu nutzen.
+    1. **Recht zur Nutzung.** Wir können Ihnen das Recht einräumen, auf die Dienste zuzugreifen und sie in Übereinstimmung mit dieser Vereinbarung zu nutzen.
 
     2. **Art der Nutzung.** Folgendes ist nicht gestattet:
 
@@ -67,9 +65,9 @@ Wenn Sie in Verbindung mit der Anmeldung oder Bestellung eines Dienstes einen Fi
     Microsoft ist ferner berechtigt, einen Dienst in einem Land zu ändern oder zu beenden, in dem Microsoft einer staatlichen Regelung, Verpflichtung oder sonstigen Anforderung unterliegt, die (1) nicht allgemein für dort tätige Unternehmen gilt, (2) für Microsoft eine Härte darstellt, den Dienst ohne Änderung weiter zu betreiben, oder (3) Microsoft zu der Annahme veranlasst, dass diese Bedingungen oder der Dienst mit einer solchen Anforderung oder Verpflichtung in Konflikt stehen könnten.
 
 4. **Previewfunktionen.** Wir können Funktionen auf einer Vorschaubasis zur Verfügung stellen.
-    Vorschauen werden „wie gesehen“ zur Verfügung gestellt und sind von den Garantien in Abschnitt 6 unten ausgeschlossen. Vorschauen können reduzierten oder abweichenden Sicherheits-, Compliance-, Datenschutz-, Verfügbarkeits-, Zuverlässigkeits- und Supportverpflichtungen unterliegen, wie in der Datenschutzerklärung und allen zusätzlichen Hinweisen in der Vorschau näher erläutert. Wir können Vorschauen jederzeit ohne vorherige Ankündigung ändern oder einstellen. Wir können uns auch dafür entscheiden, eine Vorschau nicht als „allgemein verfügbar“ zu veröffentlichen, und wenn wir Vorschauen "allgemein verfügbar" machen, können wir für solche Funktionen Gebühren erheben.
+    Vorschauen werden „wie gesehen“ zur Verfügung gestellt und sind von den Garantien in Abschnitt 6 unten ausgeschlossen. Vorschauen können reduzierten oder abweichenden Sicherheits-, Compliance-, Datenschutz-, Verfügbarkeits-, Zuverlässigkeits- und Supportverpflichtungen unterliegen, wie in der Datenschutzerklärung und allen zusätzlichen Hinweisen in der Vorschau näher erläutert. Wir können Vorschauen jederzeit ohne vorherige Ankündigung ändern oder einstellen. Wir können uns auch dafür entscheiden, eine Vorschau nicht als „allgemein verfügbar“ zu veröffentlichen, und wenn wir Vorschauen „allgemein verfügbar“ machen, können wir für solche Funktionen Gebühren erheben.
 
-## <a name="2-software-and-microsoft-content"></a>2. Software und Microsoft-Inhalte
+## 2. Software und Microsoft-Inhalte
 
 1. **Verwendung von Microsoft-Software und Microsoft-Inhalten ausserhalb des Dienstes.**
     Microsoft kann Ihnen Microsoft-Software oder Microsoft-Inhalte über oder als Teil der Dienste zur Verfügung stellen. Die Kündigung oder Aussetzung dieser Vereinbarung oder Ihrer Nutzung oder Ihres Zugriffs auf die Dienste beendet Ihr Recht, solche Microsoft-Software oder Microsoft-Inhalte zu besitzen oder zu verwenden, sofern sie nicht separat an Sie lizenziert wurden. Die Aussetzung oder Kündigung eines Benutzerplans beendet das Recht dieses Benutzers, solche Microsoft-Software oder Microsoft-Inhalte zu besitzen oder zu verwenden, die mit diesem Benutzerplan verbunden sind oder von diesem abhängig sind. Sie müssen alle Kopien dieser Microsoft-Software oder Microsoft-Inhalte, die im Rahmen dieser Vereinbarung lizenziert sind, löschen und alle zugehörigen Medien vernichten, wenn die zugehörigen Besitz- oder Nutzungsrechte erlöschen. Dieser Unterabschnitt gilt nicht für Microsoft-Software, die in Unterabschnitt (b) unten behandelt wird.
@@ -84,7 +82,7 @@ Wenn Sie in Verbindung mit der Anmeldung oder Bestellung eines Dienstes einen Fi
 
 6. **Verwendung im Unterricht.** Anerkannte Bildungseinrichtungen wie K-12-Schulen, Universitäten und private oder öffentliche Hochschulen dürfen Microsoft-Inhalte herunterladen und vervielfältigen, um sie zu Bildungszwecken im Klassenzimmer zu verteilen.
 
-## <a name="3-security-and-privacy"></a>3. Sicherheit und Datenschutz
+## 3. Sicherheit und Datenschutz
 
 1. **Sicherheit.** Wir unterhalten technische und organisatorische Massnahmen, interne Kontrollen und Datensicherheitsroutinen, die dazu dienen, Benutzerdaten vor versehentlichem Verlust oder Veränderung, unbefugter Offenlegung oder unbefugtem Zugriff oder unrechtmässiger Zerstörung zu schützen.
 
@@ -108,7 +106,7 @@ Wenn Sie in Verbindung mit der Anmeldung oder Bestellung eines Dienstes einen Fi
 
 5. **Überwachung; Audit**. Wir sind berechtigt, Ihren Zugang und Ihre Nutzung der Dienste (einschliesslich der entsprechenden Produkte und Dienste, der Website, der Inhalte und Daten) zu überwachen, um Ihre Einhaltung dieser Vereinbarung zu kontrollieren. Darüber hinaus müssen Sie bei Ihrem Zugriff auf die Dienste und deren Nutzung und bis zu fünf Jahre danach Microsoft oder einem von Microsoft beauftragten Wirtschaftsprüfer gestatten, auf Kosten von Microsoft Prüfungen im Zusammenhang mit Ihrer Nutzung der Dienste durchzuführen, um zu überprüfen, ob Sie die Bestimmungen dieser Vereinbarung einhalten. Sie müssen Microsoft angemessenen Zugang zu allen Mitarbeitern, Räumlichkeiten, Informationen, Systemen, Büchern und Aufzeichnungen gewähren, die sich auf Ihre Nutzung der Dienste beziehen, damit Microsoft die Prüfung durchführen kann. Auf Verlangen müssen Sie uns den Nachweis erbringen, dass Sie diese Vereinbarung einhalten.
 
-## <a name="4-customer-accounts-customer-conduct-and-feedback"></a>4. Kundenkonten, Kundenverhalten und Feedback
+## 4. Kundenkonten, Kundenverhalten und Feedback
 
 1. **Kontoerstellung.** Wenn Sie für einen der Dienste ein Konto eröffnen müssen, sind Sie verpflichtet, den Registrierungsprozess abzuschliessen, indem Sie uns aktuelle, vollständige und korrekte Informationen zur Verfügung stellen. Es ist Ihnen nicht gestattet, einen Benutzernamen oder eine Kennung für Ihr Konto zu wählen, der/die eine andere Person verkörpert, illegal ist oder sein könnte, durch Marken- oder andere Eigentumsrechte geschützt ist, vulgär oder beleidigend ist oder zu Verwechslungen führen könnte. Wir behalten uns das Recht vor, diese Benutzernamen und Servicekennungen nach eigenem Ermessen abzulehnen und/oder neu zuzuweisen.
 
@@ -118,7 +116,7 @@ Wenn Sie in Verbindung mit der Anmeldung oder Bestellung eines Dienstes einen Fi
 
 4. **Einreichungen und Feedback.** Wir erheben keinen Anspruch auf das Eigentum an einer Übermittlung, es sei denn, die Parteien haben etwas anderes vereinbart. Durch die Bereitstellung einer Übermittlung gewähren Sie Microsoft und seinen verbundenen Unternehmen jedoch unwiderruflich das Recht, die Übermittlung auf beliebige Weise und für beliebige Zwecke zu erstellen, zu verwenden, zu ändern, zu vertreiben und anderweitig zu vermarkten (einschliesslich der Gewährung des Rechts an die Allgemeinheit, Ihre Übermittlungen gemäss dieser Vereinbarung zu verwenden, der sich im Laufe der Zeit ändern kann). Für Beiträge, die an die Dokumentationsportale übermittelt werden, gewähren Sie ausserdem das Recht, bestimmte Identifizierungsinformationen zu veröffentlichen, die in der Datenschutzerklärung in Verbindung mit Ihrem Beitrag aufgeführt sind. Diese Rechte werden im Rahmen aller anwendbaren Rechte an geistigem Eigentum gewährt, die Sie besitzen oder kontrollieren. Für die Verwendung Ihrer Beiträge wird keine Vergütung gezahlt. Microsoft ist nicht verpflichtet, Beiträge zu veröffentlichen oder zu verwenden, und Microsoft kann jeden Beitrag jederzeit entfernen. Durch die Bereitstellung eines Beitrags garantieren Sie, dass Sie alle Rechte an Ihrem Beitrag besitzen oder anderweitig kontrollieren und dass Ihr Beitrag nicht Gegenstand von Rechten Dritter ist (einschliesslich Persönlichkeits- oder Publizitätsrechten einer Person).
 
-## <a name="5-termination-and-suspension"></a>5. Kündigung und Aussetzung
+## 5. Kündigung und Aussetzung
 
 1. **Ihre Kündigung.** Sie können diese Vereinbarung jederzeit kündigen. Wenn Sie den Zugriff auf Dienste über Microsoft Azure erworben haben, müssen Sie alle fälligen und geschuldeten Beträge bezahlen.
 
@@ -129,13 +127,13 @@ Wenn Sie in Verbindung mit der Anmeldung oder Bestellung eines Dienstes einen Fi
 
 4. **Kündigung wegen Nichtnutzung.** Wir können ein Dienstkonto nach einem längeren Zeitraum der Inaktivität oder bei Nichtbeantwortung von Mitteilungen von Microsoft aussetzen oder auflösen. Wenn Sie ein kostenloses Konto haben, sind wir berechtigt, diese Vereinbarung zu kündigen und/oder alle Benutzerdaten zu löschen, die während des Anmeldeprozesses für die Dienste automatisch generiert wurden, wenn Sie innerhalb von 90 Tagen nach der ersten Bereitstellung des Dienstes keine Benutzerdaten hochladen oder erstellen. Wir benachrichtigen Sie vor einer Kontosperrung oder -kündigung oder der Löschung von Benutzerdaten.
 
-## <a name="6-warranties"></a>6. Garantien
+## 6. Garantien
 
-**MIT AUSNAHME DER GARANTIEN IN DEN BEGLEITENDEN BEDINGUNGEN STELLEN MICROSOFT UND SEINE JEWEILIGEN LIEFERANTEN DIE DIENSTE (EINSCHLIESSLICH DES MICROSOFT-INHALTS UND DER MICROSOFT-SOFTWARE) "WIE GESEHEN", "MIT ALLEN FEHLERN" UND "WIE VERFÜGBAR" BEREIT. SIE TRAGEN DAS RISIKO DER NUTZUNG. WIR ÜBERNEHMEN KEINE GEWÄHRLEISTUNGEN, GARANTIEN ODER BEDINGUNGEN, WEDER AUSDRÜCKLICH NOCH STILLSCHWEIGEND, GESETZLICH ODER ANDERWEITIG, EINSCHLIESSLICH DER GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN. SIE HABEN MÖGLICHERWEISE ZUSÄTZLICHE RECHTE GEMÄSS IHREN LOKALEN GESETZEN, DIE DURCH DIESE VEREINBARUNG NICHT GEÄNDERT WERDEN KÖNNEN. DIESE HAFTUNGSAUSSCHLÜSSE GELTEN IN VOLLEM UMFANG, DER NACH GELTENDEM RECHT ZULÄSSIG IST, EINSCHLIESSLICH DER GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN.**
+**SOFERN NICHT IN DEN BEGLEITENDEN GESCHÄFTSBEDINGUNGEN ZUGESICHERT, STELLEN MICROSOFT UND IHRE JEWEILIGEN LIEFERANTEN DIE DIENSTE (EINSCHLIESSLICH DER MICROSOFT-INHALTE UND DER MICROSOFT-SOFTWARE) „WIE BESEHEN“, „MIT ALLEN FEHLERN“ UND „WIE VERFÜGBAR“ BEREIT. SIE TRAGEN DAS MIT DER VERWENDUNG VERBUNDENE RISIKO. WIR BIETEN KEINE GEWÄHRLEISTUNGEN, GARANTIEN ODER BEDINGUNGEN, WEDER AUSDRÜCKLICH NOCH STILLSCHWEIGEND, GESETZLICH ODER ANDERWEITIG, EINSCHLIESSLICH DER GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG DER RECHTE DRITTER. SIE HABEN MÖGLICHERWEISE ZUSÄTZLICHE RECHTE GEMÄSS IHREN LOKALEN GESETZEN, DIE DURCH DIESE VEREINBARUNG NICHT ABGEÄNDERT WERDEN KÖNNEN. DIESE HAFTUNGSAUSSCHLÜSSE GELTEN IM GRÖSSTMÖGLICHEN NACH ANWENDBAREM RECHT ZULÄSSIGEN UMFANG, EINSCHLIESSLICH DER ANWENDUNG AUF DIE STILLSCHWEIGENDEN GARANTIEN DER MARKTGÄNGIGKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND NICHTVERLETZUNG DER RECHTE DRITTER.**
 
 **Inhalte und Materialien von Drittanbietern. MICROSOFT KONTROLLIERT, PRÜFT, REVIDIERT, BEFÜRWORTET ODER ÜBERNIMMT KEINE VERANTWORTUNG FÜR INHALTE, INFORMATIONEN, NACHRICHTEN, MATERIALIEN ODER PROJEKTE VON DRITTANBIETERN, DIE ÜBER DIE DIENSTE ZUGÄNGLICH SIND ODER MIT IHNEN VERLINKT WERDEN, UND MICROSOFT GIBT KEINERLEI ZUSICHERUNGEN ODER GARANTIEN ZU DEN VORGENANNTEN INHALTE UND MATERIALIEN AB, ES SEI DENN, DIES WIRD IN EINER SEPARATEN VEREINBARUNG ZUGESICHERT, UND MICROSOFT IST FÜR DIESE NICHT VERANTWORTLICH. ALLE GESCHÄFTE, DIE SIE MIT SOLCHEN DRITTANBIETERN EINGEHEN, ERFOLGEN AUF IHR EIGENES RISIKO.**
 
-## <a name="7-defense-of-claims"></a>7. Abwehr von Ansprüchen
+## 7. Abwehr von Ansprüchen
 
 1. **Verteidigung.** Wir werden Sie gegen alle Ansprüche verteidigen, die von einem nicht angeschlossenen Dritten erhoben werden, dass die Dienste oder die Software seine Patente, Urheberrechte oder Marken verletzen oder sein Geschäftsgeheimnis unrechtmässig nutzen. Sie werden uns gegen alle Ansprüche verteidigen, die von einem nicht angeschlossenen Dritten geltend gemacht werden und die sich ergeben aus (1) Ihrem Missbrauch oder dem Missbrauch der Dienste, der Microsoft-Inhalte oder der Microsoft-Software durch Ihren Endbenutzer; (2) Ihrem Verstoss oder dem Verstoss Ihres Endbenutzers gegen diesen Vertrag; (3) jeglichen Inhalten oder Daten, die in die Dienste eingespeist oder mit den Diensten verwendet werden, denjenigen, die in Ihrem Namen handeln, oder Ihren Endbenutzern.
 
@@ -145,15 +143,15 @@ Wenn Sie in Verbindung mit der Anmeldung oder Bestellung eines Dienstes einen Fi
 
 4. **Verpflichtungen.** Jede Partei muss die andere Partei unverzüglich über einen Anspruch gemäss diesem Abschnitt 7 informieren. Die schutzsuchende Partei muss (1) der anderen Partei die alleinige Kontrolle über die Verteidigung und Beilegung des Anspruchs überlassen und (2) angemessene Hilfe bei der Verteidigung des Anspruchs leisten. Die Partei, die den Schutz gewährt, erstattet der anderen Partei (1) die angemessenen Auslagen, die ihr durch die Hilfeleistung entstehen, und (2) den Betrag eines daraus resultierenden rechtskräftigen Urteils (oder eines Vergleichs, dem die andere Partei zustimmt). Die jeweiligen Rechte der Parteien auf Verteidigung und Zahlung von Urteilen oder Vergleichen gemäss diesem Abschnitt 7 treten an die Stelle jeglicher gewohnheitsrechtlicher oder gesetzlicher Entschädigungsrechte oder ähnlicher Rechte, und jede Partei verzichtet auf solche Gewohnheitsrechte.
 
-## <a name="8-limitation-of-liability"></a>8. Haftungsbeschränkung
+## 8. Haftungsbeschränkung
 
 1. **Einschränkung.** Die Gesamthaftung jeder Partei im Rahmen dieser Vereinbarung ist auf direkte Schäden bis zu dem Betrag beschränkt, der im Rahmen dieser Vereinbarung für die Entwicklerdienste gezahlt wurde, die diese Haftung während der 12 Monate vor Entstehung der Haftung begründen, oder für Dienste, die kostenlos bereitgestellt werden, fünfhundert USA Dollar (\$500,00 USD).
 
-2. **AUSSCHLUSS. WEDER DIE PARTEI NOCH IHRE ZULIEFERER HAFTEN FÜR EINKOMMENSVERLUSTE, ENTGANGENE GEWINNE ODER INDIREKTE, BESONDERE, ZUFÄLLIGE, FOLGE-, STRAF- ODER EXEMPLARISCHE SCHÄDEN, SELBST WENN DIE PARTEI WUSSTE, DASS SIE MÖGLICH SIND.**
+2. ** AUSSCHLUSS. WEDER DIE PARTEI NOCH IHRE ZULIEFERER HAFTEN FÜR EINKOMMENSVERLUSTE, ENTGANGENE GEWINNE ODER INDIREKTE, BESONDERE, ZUFÄLLIGE, FOLGE-, STRAF- ODER EXEMPLARISCHE SCHÄDEN, SELBST WENN DIE PARTEI WUSSTE, DASS SIE MÖGLICH SIND.**
 
 3. **Ausnahmen von den Einschränkungen.** Die Haftungsbeschränkungen in diesem Abschnitt 8 gelten im grösstmöglichen gesetzlich zulässigen Umfang, jedoch nicht für: (1) die Verpflichtungen der Parteien gemäss Abschnitt 7; oder (2) Verstoss gegen die Abschnitte 3.2–3.4 oder Verletzung der geistigen Eigentumsrechte des anderen.
 
-## <a name="9-miscellaneous"></a>9. Sonstiges
+## 9. Sonstige Bedingungen
 
 1. **Vorbehalt von Rechten.** Alle Rechte, die hier nicht ausdrücklich gewährt werden, sind Microsoft vorbehalten. Sie erkennen an, dass alle geistigen Eigentumsrechte an den Diensten Eigentum von Microsoft bleiben und nichts in dieser Vereinbarung dazu führt, dass diese geistigen Eigentumsrechte auf Sie übertragen werden.
 
@@ -186,7 +184,7 @@ Wenn Sie in Verbindung mit der Anmeldung oder Bestellung eines Dienstes einen Fi
 
 14. **Änderungen.** Wir können diese Vereinbarung jederzeit mit oder ohne individuelle Benachrichtigung an Sie ändern, indem wir eine überarbeitete Version im Abschnitt „Rechtliche Informationen“ des Portals für Entwicklerdienste und des Portals für Dokumentation (oder auf einer von uns angegebenen alternativen Website) veröffentlichen oder Sie gemäss Abschnitt 9.b benachrichtigen. Jegliche Änderungen werden mit der Bekanntgabe an Sie oder der Veröffentlichung wirksam. **Wenn Sie die Dienste nach Inkrafttreten der Änderungen nutzen, bedeutet dies, dass Sie mit den Änderungen an der Vereinbarung einverstanden sind. Wenn Sie mit der neuen Vereinbarung nicht einverstanden sind, müssen Sie die Nutzung der Dienste einstellen.**
 
-## <a name="10-definitions"></a>10. Definitionen
+## 10. Definitionen
 
 „**Inhalt**“ bezeichnet Dokumente, Fotos, Videos, Daten und andere grafische, textliche oder audiovisuelle Inhalte.
 
