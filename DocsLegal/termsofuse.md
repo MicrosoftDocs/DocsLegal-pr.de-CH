@@ -4,7 +4,7 @@ description: Nutzungsbedingungen für Dokumente auf learn.microsoft.com.
 keywords: null
 author: null
 manager: null
-ms.date: 09/17/2022
+ms.date: 06/13/2024
 ms.service: learn
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
@@ -13,21 +13,21 @@ layout: ContentPage
 
 ## Annahme der Bedingungen
 
-Die folgenden Nutzungsbedingungen (Terms of Use, folgend «TOU») gelten für Ihre Nutzung der Website von Microsoft Learn ([https://learn.microsoft.com](https://learn.microsoft.com)), Tech Profile und damit verbundene Dienste. Microsoft behält sich das Recht vor, die TOU jederzeit ohne Benachrichtigung an Sie zu aktualisieren. Sie können die jeweils aktuelle Version der TOU durch Klicken auf den Hyperlink „Nutzungsbestimmungen“ unten auf unseren Webseiten einsehen.
+Die folgenden Nutzungsbedingungen (Terms of Use, folgend "TOU") gelten für Ihre Nutzung der Website von Microsoft Learn ([https://learn.microsoft.com](https://learn.microsoft.com)), Microsoft Learn-Profile und alle damit verbundenen Dienste. Microsoft behält sich das Recht vor, die TOU jederzeit ohne Benachrichtigung an Sie zu aktualisieren. Sie können die jeweils aktuelle Version der TOU durch Klicken auf den Hyperlink „Nutzungsbestimmungen“ unten auf unseren Webseiten einsehen.
 
 ## Beschreibung der Dienste
 
-Über die Microsoft Learn-Website, Tech Profile und die damit verbundenen Dienste stellt Ihnen Microsoft den Zugriff auf eine Reihe von Ressourcen bereit, darunter interaktive Schulungs-Tutorials, Dokumentationen, Videos, Entwicklertools, Downloadbereiche, Kommunikationsforen und Produktinformationen (zusammen die «Dienste»). Die Dienste, einschliesslich aller Updates, Erweiterungen, neuer Features und/oder der Ergänzung neuer Webeigenschaften, unterliegen den TOU.
+Über die Microsoft Learn-Website, Microsoft Learn und die damit verbundenen Dienste stellt Ihnen Microsoft den Zugriff auf eine Reihe von Ressourcen zur Verfügung, darunter interaktive Schulungs-Tutorials, Dokumentationen, Videos, Entwicklertools, Downloadbereiche, Kommunikationsforen und Produktinformationen (zusammen die "Dienste"). Die Dienste, einschliesslich aller Updates, Erweiterungen, neuer Features und/oder der Ergänzung neuer Webeigenschaften, unterliegen den TOU.
 
 ## Beschränkung auf persönliche und nicht-gewerbliche Nutzung
 
-Sofern nichts anderes angegeben ist, sind die Dienste für Ihre persönliche und nichtgewerbliche Nutzung vorgesehen. Sie sind nicht berechtigt, Informationen, Software, Produkte oder Dienste, die Sie über die Dienste erlangen, zu verändern, zu kopieren, zu vertreiben, zu senden, öffentlich anzuzeigen, vorzuführen, zu vervielfältigen, zu veröffentlichen, zu lizenzieren, zu übertragen, zu verkaufen oder abgeleitete Werke hiervon zu erstellen (mit Ausnahme Ihrer eigenen, persönlichen, nicht gewerblichen Nutzung), ohne vorherige schriftliche Zustimmung von Microsoft.
+Sofern nichts anderes angegeben ist, sind die Dienste für Ihre persönliche und nichtgewerbliche Nutzung vorgesehen. Sie sind nicht berechtigt, Informationen, Software, Produkte oder Dienste, die Sie über die Dienste erlangen, zu verändern, zu kopieren, zu vertreiben, zu senden, öffentlich anzuzeigen, vorzuführen, zu vervielfältigen, zu veröffentlichen, zu lizenzieren, zu übertragen, zu verkaufen oder abgeleitete Werke hiervon zu erstellen (mit Ausnahme Ihrer eigenen, persönlichen, nicht gewerblichen Nutzung), ohne vorherige schriftliche Zustimmung von Microsoft. Zu Ihrer eigenen Sicherheit sollten Sie keine sensiblen Informationen wie Kennwörter, Geburtsdaten, US-Sozialversicherungsnummern, Reisepassnummern, Kreditkarteninformationen oder Finanzinformationen offenlegen.
 
 ## Datenschutz und Schutz persönlicher Informationen.
 
 Ihre Privatsphäre ist uns wichtig. Bitte lesen Sie die [Microsoft-Datenschutzbestimmungen](https://privacy.microsoft.com/privacystatement) (die „Datenschutzbestimmungen“) – in diesen Bestimmungen wird beschrieben, welche Arten von Daten wir über Sie und Ihre Geräte erheben, wie wir diese Daten verwenden und auf welchen Rechtsgrundlagen wir uns bei der Verarbeitung der Daten stützen. Die Datenschutzbestimmungen beschreiben auch, wie Microsoft die Einreichungen (wie hierin definiert), Kommentare, Bewertungen oder Bewertungen der Dienste, Kommunikationen, Dateien, Fotos, Dokumente, Audio, digitale Werke, Livestreams, Videos und alle anderen Inhalte, die Sie über die Dienste hochladen, speichern, senden oder teilen (zusammen „Ihre Inhalte“), verwendet. Sofern die Verarbeitung auf einer Einwilligung beruht und soweit gesetzlich zulässig, stimmen Sie mit der Zustimmung zu diesen Bestimmungen der Erfassung, Nutzung und Offenlegung Ihrer Inhalte und Daten durch Microsoft zu, wie in den Datenschutzbestimmungen beschrieben. Gegebenenfalls werden wir, wie in den Datenschutzbestimmungen erläutert, hierauf getrennt hinweisen und Ihre Einwilligung einholen.
 
-**Öffentliche Benutzerinformationen und Inhalte**: Die von Ihnen bereitgestellten Benutzerinformationen (einschliesslich Ihres Benutzernamens, Anzeigenamens, Avatarbilds, Ihrer Biographie, Ihrer Berufsposition und -organisation sowie Ihrer Benutzererfolge) können von anderen eingesehen werden. Sie müssen nur einen Benutzernamen und einen Anzeigenamen angeben, um das Tech Profile nutzen zu können. Alle anderen Felder sind optional. Sie sind berechtigt, Ihren Benutzernamen zu aktualisieren und den angezeigten Namen jederzeit anzuzeigen. Microsoft kann auch das Datum, an dem Sie sich bei Tech Profile registriert haben, und Ihre Zugehörigkeit zu Microsoft erfassen und öffentlich anzeigen.
+**Öffentliche Benutzerinformationen und Inhalte**: Die von Ihnen bereitgestellten Benutzerinformationen (einschliesslich Ihres Benutzernamens, Anzeigenamens, Avatarbilds, Ihrer Biographie, Ihrer Berufsposition und -organisation, Ihrer Aktivitäten auf der Microsoft Learn-Website sowie Ihrer Benutzererfolge) können von anderen eingesehen werden. Sie müssen lediglich einen Benutzernamen und einen Anzeigenamen angeben, um das Microsoft Learn-Profil nutzen zu können. Alle anderen Felder sind optional. Sie sind berechtigt, Ihren Benutzernamen zu aktualisieren und den angezeigten Namen jederzeit anzuzeigen. Microsoft darf ausserdem das Datum, an dem Sie sich beim Microsoft Learn-Profil registriert haben, und Ihre Zugehörigkeit zu Microsoft erfassen und öffentlich anzeigen.
 
 Alle von Ihnen öffentlich geposteten Inhalte können auch von anderen eingesehen werden. Sie sind berechtigt, bestimmte Arten von Inhalten zu löschen, nachdem sie gepostet wurden, jedoch können nicht alle Arten von Inhalten gelöscht werden, nachdem sie öffentlich gepostet wurden.
 
@@ -58,33 +58,156 @@ DIE IN DEN DIENSTEN VERÖFFENTLICHTEN DOKUMENTE UND DIE DAZUGEHÖRIGEN GRAFIKEN 
 
 IN KEINEM FALL SIND MICROSOFT UND/ODER DEREN JEWEILIGE LIEFERANTEN HAFTBAR FÜR IRGENDWELCHE SPEZIELLEN, INDIREKTEN ODER FOLGESCHÄDEN ODER ANDERE SCHÄDEN WELCHER ART AUCH IMMER AUS ENTGANGENER NUTZUNG, VERLUST VON DATEN ODER ENTGANGENEM GEWINN, GLEICH OB DURCH EINE VERTRAGSHANDLUNG, FAHRLÄSSIGKEIT ODER ANDERE UNERLAUBTE HANDLUNGEN ENTSTANDEN, DIE AUS DER VERWENDUNG ODER DER LEISTUNG VON DEN DIENSTEN, DER SOFTWARE, DEN DOKUMENTEN, DER BEREITSTELLUNG ODER NICHTBEREITSTELLUNG VON DIENSTEN ODER AUS IN DEN DIENSTEN VERFÜGBAREN INFORMATIONEN RESULTIEREN ODER DAMIT IN ZUSAMMENHANG STEHEN.
 
-## Tech Profile-Konto, Kennwort und Sicherheit
+## Microsoft Learn-Profilkonto, Kennwort und Sicherheit
 
-Eventuell benötigen Sie ein Microsoft-Konto, ein Azure Active Directory-Konto oder ein Tech Profile-Konto, um auf einige der Dienste zuzugreifen.
+Möglicherweise benötigen Sie ein Microsoft-Konto, ein Azure Active Directory-Konto oder ein Microsoft Learn-Profilkonto, um auf einige der Dienste zuzugreifen.
 
 **Microsoft-Konto**. Über Ihr Microsoft-Konto können Sie sich bei Produkten, Websites und Diensten anmelden, die von Microsoft und einigen Microsoft-Partnern bereitgestellt werden. Sie können [ein Microsoft-Konto erstellen, indem Sie sich online registrieren](https://signup.live.com/). Microsoft Konten unterliegen dem [Microsoft-Servicevertrag](https://www.microsoft.com/servicesagreement/).
 
 **Azure Active Directory-Konto**. Möglicherweise haben Sie ein Konto bei Microsoft über die Organisation, der sie angehören. Bitte wenden Sie sich an den Administrator Ihrer Organisation, um Informationen zu diesem Konto zu erhalten.
 
-**Tech Profile-Konto**. Mit Ihrem Tech Profile-Konto können Sie sich auf der Microsoft Learn-Website anmelden und die damit verbundenen Dienste nutzen, einschliesslich kostenlosem Zugriff auf Schulungsressourcen, Freischaltung von Leistungen, Bewertungen, Kommentarfunktionen, Posten von Inhalten und Nutzung anderer interaktiver Dienste. Sie können ein Tech Profile-Konto erstellen, indem Sie einen Benutzernamen in Tech Profile nach dem Anmelden mit einem Microsoft-Konto oder Azure Active Directory Konto erstellen.
+**Microsoft Learn-Profilkonto**. Mit Ihrem Microsoft Learn-Profilkonto können Sie sich auf der Microsoft Learn-Website anmelden und die damit verbundenen Dienste nutzen, einschliesslich kostenlosem Zugriff auf Schulungsressourcen, Freischaltung von Leistungen, Bewertungen, Kommentarfunktionen, Posten von Inhalten und Nutzung anderer interaktiver Dienste. Sie können ein Microsoft Learn-Profilkonto erstellen, indem Sie nach dem Anmelden mit einem Microsoft-Konto oder Azure Active Directory-Konto einen Benutzernamen im Microsoft Learn-Profil erstellen.
 
-Sie verpflichten sich, bei der Anmeldung Ihres Tech Profile-Kontos keine falschen, ungenauen oder irreführenden Angaben zu machen. Für die Wahrung der Vertraulichkeit Ihres Kennworts und Accounts tragen Sie die volle Verantwortung. Darüber hinaus sind Sie alleinig für sämtliche Aktivitäten unter Ihrem Konto verantwortlich. Sie erklären sich damit einverstanden, Microsoft umgehend über jede unerlaubte Nutzung Ihres Kontos und jegliche andere Sicherheitsverletzung zu benachrichtigen. Microsoft haftet nicht für Verluste, die Ihnen möglicherweise entstehen, wenn jemand anderes Ihr Kennwort oder Konto entweder mit Ihrem oder ohne Ihr Wissen verwendet. Sie können jedoch möglicherweise für Verluste haftbar gemacht werden, die Microsoft oder einer anderen Partei entstehen, wenn jemand anderes Ihr Konto oder Kennwort verwendet. Sie sind nicht berechtigt, zu irgendeinem Zeitpunkt das Konto einer anderen Person ohne Genehmigung des Kontoinhabers zu verwenden.
+Sie erklären sich einverstanden, bei der Registrierung Ihres Microsoft Learn-Profilkontos keine falschen, ungenauen oder irreführenden Angaben zu machen. Für die Wahrung der Vertraulichkeit Ihres Kennworts und Accounts tragen Sie die volle Verantwortung. Darüber hinaus sind Sie alleinig für sämtliche Aktivitäten unter Ihrem Konto verantwortlich. Sie erklären sich damit einverstanden, Microsoft umgehend über jede unerlaubte Nutzung Ihres Kontos und jegliche andere Sicherheitsverletzung zu benachrichtigen. Microsoft haftet nicht für Verluste, die Ihnen möglicherweise entstehen, wenn jemand anderes Ihr Kennwort oder Konto entweder mit Ihrem oder ohne Ihr Wissen verwendet. Sie können jedoch möglicherweise für Verluste haftbar gemacht werden, die Microsoft oder einer anderen Partei entstehen, wenn jemand anderes Ihr Konto oder Kennwort verwendet. Sie sind nicht berechtigt, zu irgendeinem Zeitpunkt das Konto einer anderen Person ohne Genehmigung des Kontoinhabers zu verwenden.
 
-Wenn Sie ein Tech Profile-Konto im Namen einer juristischen Person, wie z. B. Ihres Unternehmens oder Arbeitgebers, erstellen, sichern Sie zu, dass Sie rechtlich befugt sind, diese juristische Person an die vorliegenden Bestimmungen zu binden. Sie können Ihr Tech Profile-Kontozugangsdaten nicht an einen anderen Nutzer oder eine andere juristische Person übertragen. Zum Schutz Ihres Kontos haben Sie Ihre Kontodetails vertraulich zu behandeln. Sie sind für alle Aktivitäten im Zusammenhang mit Ihrem Tech Profile-Konto verantwortlich.
+Wenn Sie ein Microsoft Learn-Profilkonto im Namen einer juristischen Person, wie z. B. Ihres Unternehmens oder Arbeitgebers, erstellen, sichern Sie zu, dass Sie rechtlich befugt sind, diese juristische Person an die vorliegenden Bestimmungen zu binden. Sie können Ihre Microsoft Learn-Profilkonto-Zugangsdaten nicht an einen anderen Nutzer oder eine andere juristische Person übertragen. Zum Schutz Ihres Kontos haben Sie Ihre Kontodetails vertraulich zu behandeln. Sie sind für alle Aktivitäten im Zusammenhang mit Ihrem Microsoft Learn-Profilkonto verantwortlich.
 
-Sie können Ihr Tech Profile-Konto schliessen, indem Sie auf Ihre Tech Profile-Kontoeinstellungen zugreifen.
+Sie können Ihr Microsoft Learn-Profilkonto schliessen, indem Sie auf Ihre Microsoft Learn-Profilkontoeinstellungen zugreifen.
 
 ## Keine rechtswidrige oder verbotene Nutzung
 
 Als Bedingung für Ihre Verwendung der Dienste werden Sie die Dienste nicht zu rechtswidrigen oder von diesen Bestimmungen und Hinweisen verbotenen Zwecken verwenden. Sie sind nicht berechtigt, die Dienste auf eine Weise zu verwenden, die einen Server von Microsoft oder das/die mit einem Server von Microsoft verbundene(n) Netzwerk(e) beschädigen, unbrauchbar machen, überlasten oder beeinträchtigen oder die Verwendung der Dienste durch eine andere Partei stören könnte. Sie dürfen nicht versuchen, sich durch Ausspähen von Kennwörtern oder sonstige Methoden unerlaubt Zugriff auf Dienste, andere Konten, Computersysteme oder Netzwerke, die mit einem Server von Microsoft oder einem der Dienste verbunden sind, zu verschaffen. Sie sind nicht berechtigt, auf eine Weise, die nicht absichtlich durch die Dienste verfügbar gemacht wurde, Materialien oder Informationen zu erhalten oder zu versuchen, diese zu erhalten.
+
+## Richtlinien 
+
+Damit die digitale Sicherheit beim Umgang der Nutzer untereinander in ihren Inhalten und ihrem Verhalten gewährleistet werden kann, gibt es in den Diensten Regeln darüber, welche Arten von Inhalten und Verhalten unzulässig sind. Verbotene Inhalte werden entfernt. Ihr Konto kann ausgesetzt oder aus den Diensten gelöscht werden, wenn Sie schädliche Inhalte veröffentlichen.  
+
+### Mobbing und Belästigung 
+
+Wir dulden keine Inhalte oder Verhaltensweisen, die sich mit beleidigendem Verhalten gegen eine Person oder eine Gruppe richten. Dazu zählen alle Handlungen, die folgende Wirkungen haben: 
+
+- Belästigung, Einschüchterung oder Bedrohung anderer
+- Verletzung von Personen durch Beleidigung oder Herabsetzung 
+- Unerwünschter fortgesetzter Kontakt oder Umgang, insbesondere wenn der Kontakt in anderen die Befürchtung auslöst, Verletzungen ausgesetzt zu werden. 
+
+### Sexuelle Ausbeutung und Missbrauch von Kindern (Child Sexual Exploitation and Abuse, CSEA) 
+
+Wir erlauben keine Ausbeutung, Schädigung oder Androhung von Schädigung von Kindern in den Diensten. CSEA erstreckt sich auf jeden Inhalt oder jede Aktivität, die einem Kind durch Ausbeutung, Menschenhandel, Erpressung oder Gefährdung schadet oder zu schaden droht. Dazu gehört auch die Weitergabe visueller Medien mit sexuellem Inhalt, die ein Kind einbeziehen oder sexualisieren. CSEA umfasst ausserdem Grooming, d. h. die unangemessene Interaktion mit Kindern durch Kontaktaufnahme, private Nachrichten oder Gespräche mit einem Kind, um Sex oder sexuelle Inhalte zu erbitten oder anzubieten, die Weitergabe von Inhalten, die sexuell anzüglich sind, und die Planung von Treffen mit einem Kind für sexuelle Begegnungen. Ein Kind ist eine Person, die noch nicht 18 Jahre alt ist oder die nach geltendem Recht noch nicht die Volljährigkeit erreicht hat. 
+
+Wir löschen das Microsoft Learn-Konto aller Benutzer, die CSEA veröffentlichen, automatisch. 
+
+### Verabredung zu Schaden  
+
+Die Dienste dürfen niemals verwendet werden, um Personen zu verletzten. Dies schliesst die Zusammenarbeit mit anderen zum Zweck der Verursachung von körperlichem Schaden ein. Es ist nicht erlaubt, mit anderen zusammenzuarbeiten oder konkrete Pläne zu schmieden, um jemandem körperlichen Schaden zuzufügen. 
+
+### Tätliche Gewalt und Blutvergiessen  
+
+Gewalttätige Inhalte aus der realen Welt können für die Benutzer verstörend, beleidigend oder sogar traumatisch sein. 
+
+Wir erlauben keine visuellen Inhalte, die reale Gewalt oder menschliches Blutvergiessen fördern. 
+
+Dazu können Bilder oder Videos mit diesen Inhalten gehören: 
+
+- Reale Handlungen, bei denen einer Person oder einer Gruppe schwerer körperlicher Schaden zugefügt oder sie getötet wird. 
+- Tätliche häusliche Gewalt gegen eine reale Person oder Personen. 
+- Schwere Einwirkungen oder physische Verletzungen, wie z. B. innere Organe oder Gewebe, verbrannte Überreste von Personen, abgetrennte Gliedmassen oder Enthauptung. 
+
+### Hassrede und Diskriminierung  
+
+Wir erlauben keine hasserfüllten Inhalte, die jemanden aufgrund eines geschützten Merkmals angreifen, beleidigen oder herabwürdigen, wie z. B. ethnische Zugehörigkeit, Geschlecht, Geschlechtsidentität, sexuelle Orientierung, Religion, nationale Herkunft, Alter, Behindertenstatus oder Kaste. 
+
+Zu Hassrede gehören: 
+
+- Förderung von schädlichen Stereotypen über Menschen aufgrund eines geschützten Merkmals. 
+- Entmenschlichende Äusserungen, wie der Vergleich einer Person mit einem Tier oder einem anderen nicht-menschlichen Wesen aufgrund eines geschützten Merkmals. 
+- Ermutigung zu oder Befürwortung von Gewalt gegen eine Person aufgrund eines geschützten Merkmals. 
+- Aufruf zur Absonderung, zum Ausschluss oder zur Einschüchterung von Menschen aufgrund ihres geschützten Merkmals. 
+- Symbole, Logos oder andere Bilder, die als Ausdruck von Hass oder rassischer Überlegenheit gelten. 
+
+### Nicht-einvernehmliche intime Bilder und intime Erpressung  
+
+Wir erlauben nicht, dass sexuell intime Bilder einer Person ohne deren Erlaubnis weitergegeben werden – auch als nicht einvernehmlich geteilte intime Bilder (non-consensual intimate imagery, NCII) bezeichnet. Wir erlauben nicht, dass NCII auf unseren Diensten verbreitet werden, und wir erlauben auch keine Inhalte, die NCII loben, unterstützen oder dazu aufrufen. 
+
+Wenn ein Video oder Bild die folgenden Merkmale aufweist, behandeln wir es als NCII: 
+
+- Es wurde privat aufgenommen, nicht in einem professionellen Umfeld. 
+- Es zeigt sexuelle Aktivitäten, Nacktheit oder einen sexualisierten Körperteil.  
+- Die Person, die auf dem Bild zu sehen ist, hat weder der Erstellung noch der Weitergabe des Bildmaterials zugestimmt. 
+
+Darüber hinaus lässt Microsoft keine Drohungen zu, NCII weiterzugeben oder zu veröffentlichen – auch als intime Erpressung bezeichnet. Dazu gehört auch, dass eine Person aufgefordert oder bedroht wird, um Geld, Bildmaterial oder andere Wertgegenstände als Gegenleistung dafür zu erhalten, dass die NCII nicht veröffentlicht werden.  
+
+### Sexuelle Werbung  
+
+Wir gestatten niemandem, unsere Produkte und Dienstleistungen zu nutzen, um Sex, sexuelle Dienstleistungen oder sexuelle Inhalte im Austausch gegen Geld oder andere Wertgegenstände zu verlangen oder anzubieten. 
+
+### Selbstmord und Selbstverstümmelung  
+
+Wir bemühen uns, alle möglicherweise gefährlichen Inhalte über Selbstmord und Selbstverletzung zu entfernen. Uns ist darüber hinaus bewusst, dass Menschen unsere Dienste in Anspruch nehmen, um über psychische Gesundheit zu sprechen, ihre Erfahrungen auszutauschen oder sich einer Gruppe mit anderen anzuschliessen, die von Selbstmord oder Selbstverletzung betroffen waren. 
+
+Dazu gehören (ohne Einschränkung) die folgenden Punkte: 
+
+- Unterstützung allgemeiner Verfahren, wie Menschen ihr Leben beenden können, z. B. durch eine Waffe, Erhängen oder Überdosierung von Medikamenten. 
+- Ermutigung von Personen, sich das Leben zu nehmen. 
+- Zeigen von Bildern eines tatsächlichen oder versuchten Selbstmords. 
+- Loben von durch Selbstmord gestorbenen Personen dafür, dass sie sich das Leben genommen haben. 
+
+Vorführung, Anpreisung oder Inspiration von Inhalten zu Selbstverstümmelung, z. B. durch Schneiden, Verbrennen oder Ritzen der Haut. Dazu gehören auch Inhalte, die zu Essstörungen oder systematischer Über- oder Unterernährung ermutigen oder dazu anleiten. 
+
+### Terrorismus und gewalttätiger Extremismus  
+
+Wir erlauben keine Inhalte, die Terroristen oder gewalttätige Extremisten loben oder unterstützen, ihnen bei der Anwerbung helfen oder ihre Aktivitäten fördern oder ermöglichen. Wir stützen uns auf die konsolidierte Liste des Sicherheitsrates der Vereinten Nationen, um Terroristen oder terroristische Gruppen zu identifizieren. Zu den gewalttätigen Extremisten zählen Personen, die eine Ideologie der Gewalt oder des gewalttätigen Hasses gegen eine andere Gruppe vertreten. 
+
+Wir löschen das Microsoft Learn-Konto aller Benutzer, die terroristische und gewalttätig extremistische Inhalte veröffentlichen.  
+
+### Menschenhandel  
+
+Wir erlauben keine Inhalte, die Menschenhandel fördern. Menschenhandel liegt vor, wenn jemand eine andere Person zum persönlichen Vorteil ausbeutet, indem er sie ihrer Menschenrechte beraubt. 
+
+Menschenhandel umfasst in der Regel drei Teile: 
+
+- Den Akt der Rekrutierung, Verlegung, Umsiedlung, Bezahlung oder Entführung von Menschen. 
+- Die Anwendung oder Androhung von Gewalt, Lügen, Tricks oder Nötigung, um diese Aktivitäten durchzuführen. 
+- Die Aktivitäten erfolgen für Geld, Status oder eine andere Art von Gewinn. 
+
+Menschenhandel bedeutet, dass Menschen gezwungen werden, ohne ihre Zustimmung zu arbeiten, zu heiraten, sexuelle Handlungen vorzunehmen oder sich medizinischen Behandlungen oder Operationen zu unterziehen, und ist nicht auf ein bestimmtes Alter oder einen bestimmten Hintergrund beschränkt. 
+
+### Gewaltandrohung, Aufwiegelung und Gewaltverherrlichung  
+
+Wir dulden keine Inhalte, die durch Gewaltandrohung oder Aufstachelung zu Gewalt gegen andere Menschen aufrufen. 
+
+Eine Gewaltandrohung ist eine Äusserung, die eine konkrete Absicht erkennen lässt, jemandem ernsthaften körperlichen Schaden zuzufügen.  
+
+Anstiftung ist Material, das eine Person oder eine Gruppe zu schwerem körperlichem Schaden ermutigt, auffordert oder diesen wahrscheinlich bewirkt. 
+
+Ebenso wenig erlauben wir Verherrlichung von Gewalt durch Inhalte, die reale Gewalttaten preisen oder unterstützen, bei denen Menschen oder Gruppen schwerer körperlicher Schaden zugefügt wird, einschliesslich Gewalt, die in der Vergangenheit stattgefunden hat. 
+
+### Erwachsene und sexuelle Inhalte 
+
+Wir gestatten die Nutzung der Dienste nicht, um unangemessene Inhalte oder Materialien zu erstellen oder weiterzugeben (z. B. Nacktheit, Sodomie, Pornografie, anstössige Sprache, tätliche Gewalt, Selbstverstümmelung oder kriminelle Aktivitäten). 
+
+### Obszönität und Vulgarität 
+
+Wir erlauben kein Fluchen oder in anderer Weise herabwürdigende Sprache.  
+
+### Spam 
+
+Wir erlauben keinen Spam und keine Beiträge, die Phishing oder die Erzeugung oder Verbreitung von Malware beinhalten.  
+
+Bei Spam handelt es sich um unverlangte Massen-E-Mails, Beiträge, Kontaktanfragen, SMS (Textnachrichten), Sofortnachrichten oder ähnliche elektronische Kommunikation.  
+
+Phishing ist das Versenden von E-Mails oder anderen elektronischen Mitteilungen mit dem Ziel, die Empfänger in betrügerischer oder unrechtmässiger Weise zur Preisgabe persönlicher oder vertraulicher Informationen zu bewegen, um Zugang zu Konten oder Datensätzen zu erlangen, die Weitergabe von Dokumenten oder anderen sensiblen Informationen, Zahlungen und/oder finanzielle Vorteile zu erwirken.  
+
+Malware umfasst alle Aktivitäten, die darauf abzielen, technischen Schaden anzurichten, z. B. die Bereitstellung bösartiger ausführbarer Dateien, die Organisation von Denial-of-Service-Angriffen oder die Verwaltung von Command-and-Control-Servern. 
+
+### Verleumdung, Identitätsannahme, falsche Informationen 
+
+Wir lassen keine Handlungen zu, die betrügerisch, falsch oder irreführend sind (z. B. das Erbitten von Geld unter Vorspiegelung falscher Tatsachen, die Annahme einer fremden Identität, Verunglimpfung, die Manipulation von Diensten, um einen Spielstand zu erhöhen oder Rankings, Bewertungen oder Kommentare zu beeinflussen). 
 
 ## Verwendung von Diensten
 
 Die Dienste können E-Mail-Dienste, Pinnwände, Chaträume, Foren, Communities, persönliche Webseiten, Kalender, Fotoalben, Archive und/oder andere Benachrichtigungs- oder Kommunikationssysteme umfassen, die Ihnen die Kommunikation mit anderen ermöglichen sollen («Kommunikationsdienste»). Sie stimmen zu, unter Verwendung der Diensten nur solche Nachrichten und Materialien zu posten, zu verschicken und zu empfangen, die angemessen sind und gegebenenfalls mit dem jeweiligen Dienst in Zusammenhang stehen. Sie erklären sich damit einverstanden, dass Sie bei Verwendung der Kommunikationsdienste:
 
 - die Dienste nicht im Zusammenhang mit Umfragen, Wettbewerben, Pyramidenschemata, Kettenbriefen, Junk-E-Mails, Massenwerbesendungen oder anderen vervielfältigten oder unverlangten Nachrichten (ob kommerzieller oder anderer Natur) verwenden.
-- andere Personen nicht verleumden, missbrauchen, schikanieren, belästigen, bedrohen oder deren gesetzliche Rechte (wie Rechte auf Privatsphäre und auf Öffentlichkeit) anderweitig verletzen werden.
-- keine unangemessenen, gotteslästerlichen, beleidigenden, obszönen, unmoralischen oder gesetzwidrigen Themen, Namen, Materialien oder Informationen veröffentlichen, posten, hochladen, verteilen oder verbreiten.
 - keine Dateien hochladen oder anderweitig zur Verfügung stellen werden, die Bilder, Fotografien, Software oder andere Materialien enthalten, die durch gewerbliche Schutzrechte, z. B., aber nicht ausschliesslich, Urheberrechts- oder Markenrechte (oder Rechte auf Privatsphäre oder auf Öffentlichkeit), geschützt sind, es sei denn, die Rechte an diesen Bildern, diesen Fotografien, dieser Software oder diesen Materialien stehen in Ihrem Eigentum oder unter Ihrer Kontrolle oder Sie haben alle erforderlichen Einwilligungen hierzu erhalten.
 - keine Materialien oder Informationen nutzen, darunter Bilder oder Fotos, die über die Dienste auf eine Weise verfügbar gemacht wurden, die Urheberrechte, Marken, Patente, Geschäftsgeheimnisse oder sonstige Eigentumsrechte Dritter verletzt.
 - keine Dateien hochladen, die Viren, Trojaner, Würmer, Zeitbomben, Cancelbots, korrupte Dateien oder andere vergleichbare Softwares oder Programme enthalten, durch die der Computer oder sonstiges Eigentum einer anderen Person in seiner Funktion beeinträchtigt bzw. beschädigt wird.
